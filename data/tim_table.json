@@ -1,0 +1,4002 @@
+[
+  {
+    "Table ID": "accountingbooksubsidiaries",
+    "Table Name": "Subsidiaries",
+    "Permission Needed": "Setup - Accounting Book"
+  },
+  {
+    "Table ID": "accountingbooksubsidiarymap",
+    "Table Name": "Subsidiary",
+    "Permission Needed": "Setup - Accounting Book"
+  },
+  {
+    "Table ID": "accountingcontext",
+    "Table Name": "Accounting Context",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "allocationscheduledestination",
+    "Table Name": "Destination",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "allocationschedulesource",
+    "Table Name": "Source",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "attendee",
+    "Table Name": "Attendees",
+    "Permission Needed": "Lists - Events"
+  },
+  {
+    "Table ID": "billrun",
+    "Table Name": "Billing Operations",
+    "Permission Needed": "Transactions - Invoice"
+  },
+  {
+    "Table ID": "billrunschedule",
+    "Table Name": "Billing Operation Schedules",
+    "Permission Needed": "Transactions - Invoice"
+  },
+  {
+    "Table ID": "billingaccountbillcycle",
+    "Table Name": "Billing Account Billing Schedule",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "billingratecard",
+    "Table Name": "Billing Rate Card",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "billingratecardpriceforsearch",
+    "Table Name": "Pricing",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "billingratecardpricemultiforsearch",
+    "Table Name": "Pricing",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "billingratecardversion",
+    "Table Name": "Billing Rate Card Version",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "bomrevisioncomponent",
+    "Table Name": "Bill of Materials Revision Component",
+    "Permission Needed": "Lists - Bill of Materials"
+  },
+  {
+    "Table ID": "bomsubsidiarymap",
+    "Table Name": "Bill of Materials to Subsidiary Map",
+    "Permission Needed": "Lists - Bill of Materials"
+  },
+  {
+    "Table ID": "budgetsmachine",
+    "Table Name": "Budget Line",
+    "Permission Needed": "Transactions - Set Up Budgets"
+  },
+  {
+    "Table ID": "bulkprocsubmissionline",
+    "Table Name": "Bulk Processing Submission Lines",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "businesseventsprocessinghistorytransactionmap",
+    "Table Name": "Issues",
+    "Permission Needed": "Lists - Notes Tab"
+  },
+  {
+    "Table ID": "companyaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "companybulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "companycampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "companycompanycontact",
+    "Table Name": "Contacts",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "calendarevent",
+    "Table Name": "Event",
+    "Permission Needed": "Lists - Events"
+  },
+  {
+    "Table ID": "chargerule",
+    "Table Name": "Charge Rule",
+    "Permission Needed": "Transactions - Charge Rule"
+  },
+  {
+    "Table ID": "chargerun",
+    "Table Name": "Charge Run Status",
+    "Permission Needed": "Transactions - Charge"
+  },
+  {
+    "Table ID": "competitor",
+    "Table Name": "Competitor",
+    "Permission Needed": "Lists - Competitors"
+  },
+  {
+    "Table ID": "competitoropportunity",
+    "Table Name": "Competitor",
+    "Permission Needed": "Transactions - Opportunity"
+  },
+  {
+    "Table ID": "contact",
+    "Table Name": "Contact",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "contactaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "contactbulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "contactcategory",
+    "Table Name": "Contact Category",
+    "Permission Needed": "Setup - CRM Lists"
+  },
+  {
+    "Table ID": "contactcontactcampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "contactcontacttypemap",
+    "Table Name": "Contact",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "contactrole",
+    "Table Name": "Contact Role",
+    "Permission Needed": "Lists - Contact Roles"
+  },
+  {
+    "Table ID": "contactsubsidiaryrelationship",
+    "Table Name": "Contact-Subsidiary Relationship",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "countries",
+    "Table Name": "Countries",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "creditcardchargeexpensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Credit Card"
+  },
+  {
+    "Table ID": "creditcardrefundexpensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Credit Card Refund"
+  },
+  {
+    "Table ID": "crmtemplatecategorycrmtemplate",
+    "Table Name": "Templates",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "crmtemplatecategorysubsidiary",
+    "Table Name": "Subsidiaries",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "custom",
+    "Table Name": "Custom",
+    "Permission Needed": "Lists - Custom Record Entries"
+  },
+  {
+    "Table ID": "customlist",
+    "Table Name": "Custom List",
+    "Permission Needed": "Setup - Custom Lists"
+  },
+  {
+    "Table ID": "customrecordtype",
+    "Table Name": "Custom Record",
+    "Permission Needed": "Setup - Custom Record Types"
+  },
+  {
+    "Table ID": "customsegment",
+    "Table Name": "Custom Segment",
+    "Permission Needed": "Setup - Custom Segments"
+  },
+  {
+    "Table ID": "customtransactiontype",
+    "Table Name": "Custom Transaction",
+    "Permission Needed": "Setup - Custom Transaction Types"
+  },
+  {
+    "Table ID": "customerdownload",
+    "Table Name": "Downloads",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "customersegment",
+    "Table Name": "Customer Segment",
+    "Permission Needed": "Setup - Customer Segments Manager"
+  },
+  {
+    "Table ID": "customersubsidiaryrelationship",
+    "Table Name": "Customer-Subsidiary Relationship",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "deletedrecord",
+    "Table Name": "Deleted Record",
+    "Permission Needed": "Setup - Deleted Records"
+  },
+  {
+    "Table ID": "driverslicense",
+    "Table Name": "Driver's License",
+    "Permission Needed": "Lists - Advanced Government-Issued IDs"
+  },
+  {
+    "Table ID": "emailtemplate",
+    "Table Name": "Email Template",
+    "Permission Needed": "Lists - Email Template"
+  },
+  {
+    "Table ID": "emailtemplatecategorycrmtemplate",
+    "Table Name": "Templates",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "employeechangereason",
+    "Table Name": "Employee Change Reason",
+    "Permission Needed": "Lists - Employee Change Reason"
+  },
+  {
+    "Table ID": "employeechangerequesttype",
+    "Table Name": "Employee Change Request Type",
+    "Permission Needed": "Lists - Employee Change Request Type"
+  },
+  {
+    "Table ID": "employeeexpensereportcurrencies",
+    "Table Name": "Expense Report Currencies",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeestatus",
+    "Table Name": "Employee Status",
+    "Permission Needed": "Setup - Other Lists"
+  },
+  {
+    "Table ID": "employeetype",
+    "Table Name": "Employee Type",
+    "Permission Needed": "Setup - Other Lists"
+  },
+  {
+    "Table ID": "entityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "expensecategoryrate",
+    "Table Name": "Rates",
+    "Permission Needed": "Lists - Expense Categories"
+  },
+  {
+    "Table ID": "expensecategorytranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Expense Categories"
+  },
+  {
+    "Table ID": "faxtemplate",
+    "Table Name": "Fax Template",
+    "Permission Needed": "Lists - Fax Template"
+  },
+  {
+    "Table ID": "faxtemplatecategorycrmtemplate",
+    "Table Name": "Templates",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "file",
+    "Table Name": "File",
+    "Permission Needed": "Lists - Documents and Files"
+  },
+  {
+    "Table ID": "filehits",
+    "Table Name": "File Access",
+    "Permission Needed": "Lists - Documents and Files"
+  },
+  {
+    "Table ID": "glnumberingsequence",
+    "Table Name": "GL Audit Numbering Sequence",
+    "Permission Needed": "Setup - Manage Accounting Periods"
+  },
+  {
+    "Table ID": "generaldetaildestination",
+    "Table Name": "Destination",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "generaldetailsource",
+    "Table Name": "Source",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "generalscheduledestination",
+    "Table Name": "Destination",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "generalschedulesource",
+    "Table Name": "Source",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "gllinesauditloglinesegment",
+    "Table Name": "Custom GL Lines Audit Log - Segments",
+    "Permission Needed": "Lists - Custom GL Lines Plug-in Audit Log"
+  },
+  {
+    "Table ID": "governmentissuedidtype",
+    "Table Name": "Government-Issued ID Type",
+    "Permission Needed": "Lists - Government-Issued ID Types"
+  },
+  {
+    "Table ID": "hcmjob",
+    "Table Name": "Job",
+    "Permission Needed": "Lists - HCMJob Management"
+  },
+  {
+    "Table ID": "inboundshipment",
+    "Table Name": "Inbound Shipment",
+    "Permission Needed": "Lists - Inbound Shipment"
+  },
+  {
+    "Table ID": "intercompanyallocationscheduleallocationdetail",
+    "Table Name": "Allocation Detail",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "intercompanyallocationscheduleallocationdetailgeneraldetaildestination",
+    "Table Name": "Destination",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "intercompanyallocationscheduleallocationdetailgeneraldetailsource",
+    "Table Name": "Source",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "intercompanyallocationscheduleallocationdetailjournalmap",
+    "Table Name": null,
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "intercompanydestination",
+    "Table Name": "Destination",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "intercompanysource",
+    "Table Name": "Source",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "invoicegroup",
+    "Table Name": "Invoice Group",
+    "Permission Needed": "Transactions - Invoice"
+  },
+  {
+    "Table ID": "issueissuetagmap",
+    "Table Name": "Tags",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "issuemediaitemmap",
+    "Table Name": "Files",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "issueproductitemmap",
+    "Table Name": "Issues",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "itemcollectionitemsimplemap",
+    "Table Name": "Item-Item Collection Relationship",
+    "Permission Needed": "Lists - Item Collection"
+  },
+  {
+    "Table ID": "itemfulfillmentpackage",
+    "Table Name": "Packages",
+    "Permission Needed": "Transactions - Item Fulfillment"
+  },
+  {
+    "Table ID": "itemfulfillmentpackagefedex",
+    "Table Name": "FedEx Packages",
+    "Permission Needed": "Transactions - Item Fulfillment"
+  },
+  {
+    "Table ID": "itemfulfillmentpackageups",
+    "Table Name": "UPS Packages",
+    "Permission Needed": "Transactions - Item Fulfillment"
+  },
+  {
+    "Table ID": "itemfulfillmentpackageusps",
+    "Table Name": "USPS Packages",
+    "Permission Needed": "Transactions - Item Fulfillment"
+  },
+  {
+    "Table ID": "itemsegmentincludingsynthetic",
+    "Table Name": "Item Segment",
+    "Permission Needed": "Setup - Customer Segments Manager"
+  },
+  {
+    "Table ID": "journalaccountingline",
+    "Table Name": "Journal Accounting Line",
+    "Permission Needed": "Transactions - Make Journal Entry"
+  },
+  {
+    "Table ID": "kudos",
+    "Table Name": "Kudos",
+    "Permission Needed": "Lists - Kudos"
+  },
+  {
+    "Table ID": "localizedtemplate",
+    "Table Name": "Template Localization",
+    "Permission Needed": "Lists - Marketing Template"
+  },
+  {
+    "Table ID": "loginaudit",
+    "Table Name": "Login Audit Trail",
+    "Permission Needed": "Setup - View Login Audit Trail"
+  },
+  {
+    "Table ID": "mailtemplate",
+    "Table Name": "Letter Template",
+    "Permission Needed": "Lists - Email Template"
+  },
+  {
+    "Table ID": "mailtemplatecategorycrmtemplate",
+    "Table Name": "Templates",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "mediaitemfolder",
+    "Table Name": "Document Folder",
+    "Permission Needed": "Lists - Documents and Files"
+  },
+  {
+    "Table ID": "memdoc",
+    "Table Name": "Memorized Transaction Definition",
+    "Permission Needed": "Lists - Memorized Transactions"
+  },
+  {
+    "Table ID": "memdoctransactiontemplateaccountingline",
+    "Table Name": "Memorized Transaction Accounting Line",
+    "Permission Needed": "Transactions - Find Transaction"
+  },
+  {
+    "Table ID": "merchandisehierarchylevel",
+    "Table Name": "Merchandise Hierarchy Level",
+    "Permission Needed": "Setup - Merchandise Hierarchy Level"
+  },
+  {
+    "Table ID": "merchandisehierarchynode",
+    "Table Name": "Merchandise Hierarchy Node",
+    "Permission Needed": "Setup - Merchandise Hierarchy Node"
+  },
+  {
+    "Table ID": "merchandisehierarchynodeversion",
+    "Table Name": "Hierarchy Versions",
+    "Permission Needed": "Setup - Merchandise Hierarchy Node"
+  },
+  {
+    "Table ID": "merchandisehierarchyversion",
+    "Table Name": "Merchandise Hierarchy Version",
+    "Permission Needed": "Setup - Merchandise Hierarchy Version"
+  },
+  {
+    "Table ID": "merchandisehierarchyversionlevel",
+    "Table Name": "Hierarchy Levels",
+    "Permission Needed": "Setup - Merchandise Hierarchy Version"
+  },
+  {
+    "Table ID": "message",
+    "Table Name": "Message",
+    "Permission Needed": "Lists - Track Messages"
+  },
+  {
+    "Table ID": "newsitem",
+    "Table Name": "News Item",
+    "Permission Needed": "Lists - News Items"
+  },
+  {
+    "Table ID": "nexttransactionlinelink",
+    "Table Name": "Related Transaction Line Link - Next",
+    "Permission Needed": "Transactions - Find Transaction"
+  },
+  {
+    "Table ID": "nexus",
+    "Table Name": "Nexus",
+    "Permission Needed": "Lists - Tax Records"
+  },
+  {
+    "Table ID": "organizationvalue",
+    "Table Name": "Organizational Value",
+    "Permission Needed": "Lists - Organizational Value"
+  },
+  {
+    "Table ID": "othergovernmentissuedid",
+    "Table Name": "Other Government-Issued ID",
+    "Permission Needed": "Lists - Advanced Government-Issued IDs"
+  },
+  {
+    "Table ID": "partner",
+    "Table Name": "Partner",
+    "Permission Needed": "Lists - Partners"
+  },
+  {
+    "Table ID": "partneraddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "partnerbulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "partnercampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "partnercompanycontact",
+    "Table Name": "Contacts",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "passport",
+    "Table Name": "Passport",
+    "Permission Needed": "Lists - Advanced Government-Issued IDs"
+  },
+  {
+    "Table ID": "pdftemplate",
+    "Table Name": "PDF Template",
+    "Permission Needed": "Lists - PDF Template"
+  },
+  {
+    "Table ID": "pdftemplatecategorycrmtemplate",
+    "Table Name": "Templates",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "perbookperiodclosing",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Setup - Accounting Book"
+  },
+  {
+    "Table ID": "phonecall",
+    "Table Name": "Phone Call",
+    "Permission Needed": "Lists - Phone Calls"
+  },
+  {
+    "Table ID": "position",
+    "Table Name": "Position",
+    "Permission Needed": "Lists - Positions"
+  },
+  {
+    "Table ID": "previoustransactionlinelink",
+    "Table Name": "Related Transaction Line Link - Previous",
+    "Permission Needed": "Transactions - Find Transaction"
+  },
+  {
+    "Table ID": "projecticchargerequest",
+    "Table Name": "Job Intercompany Cross Charge Request",
+    "Permission Needed": "Transactions - Project Intercompany Cross Charge Request"
+  },
+  {
+    "Table ID": "revenuerecognitiontreatment",
+    "Table Name": "Revenue Recognition Treatment",
+    "Permission Needed": "Lists - Recognition Treatment"
+  },
+  {
+    "Table ID": "subtab",
+    "Table Name": "Custom Subtab",
+    "Permission Needed": "Setup - Custom Subtabs"
+  },
+  {
+    "Table ID": "shipitem",
+    "Table Name": "Shipping Item",
+    "Permission Needed": "Lists - Shipping Items"
+  },
+  {
+    "Table ID": "shipitemfreeshippingitem",
+    "Table Name": "Free Shipping Items",
+    "Permission Needed": "Lists - Shipping Items"
+  },
+  {
+    "Table ID": "shipitemhandlingrate",
+    "Table Name": "Handling Rate",
+    "Permission Needed": "Lists - Shipping Items"
+  },
+  {
+    "Table ID": "shipitemshippingrate",
+    "Table Name": "Shipping Rate",
+    "Permission Needed": "Lists - Shipping Items"
+  },
+  {
+    "Table ID": "shipitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Shipping Items"
+  },
+  {
+    "Table ID": "shippingpartnerpackage",
+    "Table Name": "Shipping Partner Package",
+    "Permission Needed": "Lists - Shipping Partner Package"
+  },
+  {
+    "Table ID": "shippingpartnerregistration",
+    "Table Name": "Shipping Partner Registration",
+    "Permission Needed": "Lists - Shipping Partner Registration"
+  },
+  {
+    "Table ID": "shippingpartnershipment",
+    "Table Name": "Shipping Partner Shipment",
+    "Permission Needed": "Lists - Shipping Partner Shipment"
+  },
+  {
+    "Table ID": "states",
+    "Table Name": "States",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "subsidiaryaccountingbookswithpejeenabled",
+    "Table Name": "Subsidiary Settings Grouping Segment Map",
+    "Permission Needed": "Setup - Subsidiary Settings Manager"
+  },
+  {
+    "Table ID": "subsidiarysettings",
+    "Table Name": "Subsidiary Settings",
+    "Permission Needed": "Setup - Subsidiary Settings Manager"
+  },
+  {
+    "Table ID": "subsidiarysettingsgroupingsegmentmap",
+    "Table Name": "Subsidiary Settings Grouping Segment Map",
+    "Permission Needed": "Setup - Subsidiary Settings Manager"
+  },
+  {
+    "Table ID": "systememailtemplate",
+    "Table Name": "System Email Template (Scriptable)",
+    "Permission Needed": "Lists - System Email Template"
+  },
+  {
+    "Table ID": "systememailtemplatecategorycrmtemplate",
+    "Table Name": "Templates",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "task",
+    "Table Name": "Task",
+    "Permission Needed": "Lists - Tasks"
+  },
+  {
+    "Table ID": "terminationreason",
+    "Table Name": "Termination Reason",
+    "Permission Needed": "Lists - Termination Reasons"
+  },
+  {
+    "Table ID": "timeoffchange",
+    "Table Name": "Time-Off Change",
+    "Permission Needed": "Lists - Time-Off Administration"
+  },
+  {
+    "Table ID": "timeoffplan",
+    "Table Name": "Time-Off Plan",
+    "Permission Needed": "Lists - Time-Off Administration"
+  },
+  {
+    "Table ID": "timeoffrule",
+    "Table Name": "Time-Off Rule",
+    "Permission Needed": "Lists - Time-Off Administration"
+  },
+  {
+    "Table ID": "timeofftype",
+    "Table Name": "Time-Off Type",
+    "Permission Needed": "Lists - Time-Off Administration"
+  },
+  {
+    "Table ID": "topic",
+    "Table Name": "Topic",
+    "Permission Needed": "Lists - Knowledge Base"
+  },
+  {
+    "Table ID": "transactionaccountingline",
+    "Table Name": "Transaction Accounting Line",
+    "Permission Needed": "Transactions - Find Transaction"
+  },
+  {
+    "Table ID": "umdfield",
+    "Table Name": "Record Field",
+    "Permission Needed": "Setup - Analytics Administrator"
+  },
+  {
+    "Table ID": "unlockedtimeperiod",
+    "Table Name": "Unlock Time Period",
+    "Permission Needed": "Setup - Unlocked Time Period"
+  },
+  {
+    "Table ID": "usereventscriptdeployment",
+    "Table Name": "User Event Script Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "usrauditlog",
+    "Table Name": "Audit Trail",
+    "Permission Needed": "Setup - Analytics Administrator"
+  },
+  {
+    "Table ID": "usrauditlogchange",
+    "Table Name": "Audit Change",
+    "Permission Needed": "Setup - Analytics Administrator"
+  },
+  {
+    "Table ID": "usrauditlogchangedetail",
+    "Table Name": "Audit Detail",
+    "Permission Needed": "Setup - Analytics Administrator"
+  },
+  {
+    "Table ID": "usrexecutionlog",
+    "Table Name": "Execution Log",
+    "Permission Needed": "Setup - Analytics Administrator"
+  },
+  {
+    "Table ID": "usrexecutionlogfieldmap",
+    "Table Name": "UsrExecutionLogFields",
+    "Permission Needed": "Setup - Analytics Administrator"
+  },
+  {
+    "Table ID": "account",
+    "Table Name": "Account",
+    "Permission Needed": "Lists - Accounts"
+  },
+  {
+    "Table ID": "accountingbook",
+    "Table Name": "Accounting Book",
+    "Permission Needed": "Setup - Accounting Book"
+  },
+  {
+    "Table ID": "accountingcontexttranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "accountingperiod",
+    "Table Name": "Accounting Period",
+    "Permission Needed": "Setup - Manage Accounting Periods"
+  },
+  {
+    "Table ID": "advancedrevrecplugin",
+    "Table Name": "Revenue Management Plug-in",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "aggregateitemlocation",
+    "Table Name": "Locations",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "allocationdetail",
+    "Table Name": "Allocation Detail",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "allocationdetailjournalmap",
+    "Table Name": null,
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "allocationscheduleallocationdetail",
+    "Table Name": "Allocation Detail",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "allocationscheduleallocationdetailgeneraldetaildestination",
+    "Table Name": "Destination",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "allocationscheduleallocationdetailgeneraldetailsource",
+    "Table Name": "Source",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "allocationscheduleallocationdetailjournalmap",
+    "Table Name": null,
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "amortizationschedule",
+    "Table Name": "Amortization Schedule",
+    "Permission Needed": "Lists - Amortization Schedules"
+  },
+  {
+    "Table ID": "amortizationschedulerecurrence",
+    "Table Name": "Custom Recurrence Pattern",
+    "Permission Needed": "Lists - Amortization Schedules"
+  },
+  {
+    "Table ID": "amortizationtemplate",
+    "Table Name": "Amortization Template",
+    "Permission Needed": "Lists - Amortization Schedules"
+  },
+  {
+    "Table ID": "amortizationtemplaterecurrence",
+    "Table Name": "Custom Recurrence Pattern",
+    "Permission Needed": "Lists - Amortization Schedules"
+  },
+  {
+    "Table ID": "aschargedprojectrevenuerule",
+    "Table Name": "As Charged Project Revenue Rule",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "aschargedprojectrevenueruleprojectrevenuerlchargerl",
+    "Table Name": "Charge Rules",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "assemblyitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "assemblyitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "assemblyitemlocations",
+    "Table Name": "Locations",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemmember",
+    "Table Name": "Components",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "assemblyitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "billofdistribution",
+    "Table Name": "Bill Of Distribution",
+    "Permission Needed": "Lists - Bill Of Distribution"
+  },
+  {
+    "Table ID": "billofdistributiondistributionsource",
+    "Table Name": "Distribution Source",
+    "Permission Needed": "Lists - Bill Of Distribution"
+  },
+  {
+    "Table ID": "billingaccount",
+    "Table Name": "Billing Account",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "billingclass",
+    "Table Name": "Billing Class",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "billingclasspricecost",
+    "Table Name": "Pricing",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "billingrevenueevent",
+    "Table Name": "Revenue Recognition Event",
+    "Permission Needed": "Lists - Revenue Recognition Plan"
+  },
+  {
+    "Table ID": "billingschedule",
+    "Table Name": "Billing Schedule",
+    "Permission Needed": "Lists - Billing Schedules"
+  },
+  {
+    "Table ID": "billingschedulemilestone",
+    "Table Name": "Milestone",
+    "Permission Needed": "Lists - Billing Schedules"
+  },
+  {
+    "Table ID": "billingschedulerecurrence",
+    "Table Name": "Custom Recurrence Pattern",
+    "Permission Needed": "Lists - Billing Schedules"
+  },
+  {
+    "Table ID": "bin",
+    "Table Name": "Bin",
+    "Permission Needed": "Lists - Bins"
+  },
+  {
+    "Table ID": "bom",
+    "Table Name": "Bill of Materials",
+    "Permission Needed": "Lists - Bill of Materials"
+  },
+  {
+    "Table ID": "bomavailablelocationmap",
+    "Table Name": "Available For Locations",
+    "Permission Needed": "Lists - Bill of Materials"
+  },
+  {
+    "Table ID": "bomavailablesubsidiarymap",
+    "Table Name": "Available For Subsidiaries",
+    "Permission Needed": "Lists - Bill of Materials"
+  },
+  {
+    "Table ID": "bomrevision",
+    "Table Name": "Bill of Materials Revision",
+    "Permission Needed": "Lists - Bill of Materials"
+  },
+  {
+    "Table ID": "bomrevisionbommap",
+    "Table Name": "Revisions",
+    "Permission Needed": "Lists - Bill of Materials"
+  },
+  {
+    "Table ID": "bomrevisioncomponentmember",
+    "Table Name": "Bill of Materials Revision Component",
+    "Permission Needed": "Lists - Bill of Materials"
+  },
+  {
+    "Table ID": "budgetexchangerate",
+    "Table Name": "Budget Exchange Rate",
+    "Permission Needed": "Transactions - Set Up Budgets"
+  },
+  {
+    "Table ID": "budgetcategory",
+    "Table Name": "Budget Category",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "budgets",
+    "Table Name": "Budget",
+    "Permission Needed": "Transactions - Set Up Budgets"
+  },
+  {
+    "Table ID": "budgetsmachinenoaccountingperiod",
+    "Table Name": "Budget Line",
+    "Permission Needed": "Transactions - Set Up Budgets"
+  },
+  {
+    "Table ID": "bulkprocerror",
+    "Table Name": "Bulk Processing Errors",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "bulkprocsubmission",
+    "Table Name": "Bulk Processing Submission",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "bundleinstallationscript",
+    "Table Name": "Bundle Installation Script",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "bundleinstallationscriptdeployment",
+    "Table Name": "Bundle Installation Script Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "calendareventresourcemap",
+    "Table Name": "Resources",
+    "Permission Needed": "Lists - Resource"
+  },
+  {
+    "Table ID": "campaignaudience",
+    "Table Name": "Campaign Audience",
+    "Permission Needed": "Setup - Setup Campaigns"
+  },
+  {
+    "Table ID": "campaigncategory",
+    "Table Name": "Campaign Category",
+    "Permission Needed": "Setup - Setup Campaigns"
+  },
+  {
+    "Table ID": "campaignchannel",
+    "Table Name": "Campaign Channel",
+    "Permission Needed": "Setup - Setup Campaigns"
+  },
+  {
+    "Table ID": "campaignemailaddress",
+    "Table Name": "Campaign Email Address",
+    "Permission Needed": "Setup - Set Up Campaign Email Addresses"
+  },
+  {
+    "Table ID": "campaignfamily",
+    "Table Name": "Campaign Family",
+    "Permission Needed": "Setup - Setup Campaigns"
+  },
+  {
+    "Table ID": "campaignoffer",
+    "Table Name": "Campaign Offer",
+    "Permission Needed": "Setup - Setup Campaigns"
+  },
+  {
+    "Table ID": "campaignresponse",
+    "Table Name": "Campaign Response",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "campaignresponsehistoryentry",
+    "Table Name": "Response History",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "campaignsearchengine",
+    "Table Name": "Campaign Search Engine",
+    "Permission Needed": "Setup - Setup Campaigns"
+  },
+  {
+    "Table ID": "campaignsubscription",
+    "Table Name": "Campaign Subscription",
+    "Permission Needed": "Setup - Setup Campaigns"
+  },
+  {
+    "Table ID": "campaigntemplate",
+    "Table Name": "Campaign Email Template",
+    "Permission Needed": "Lists - Marketing Template"
+  },
+  {
+    "Table ID": "campaigntemplatecategorycrmtemplate",
+    "Table Name": "Templates",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "campaignvertical",
+    "Table Name": "Campaign Vertical",
+    "Permission Needed": "Setup - Setup Campaigns"
+  },
+  {
+    "Table ID": "cashrefundbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "cashrefundshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "cashsalebillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "cashsaleitemshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "cashsaleshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "charge",
+    "Table Name": "Charge",
+    "Permission Needed": "Transactions - Charge"
+  },
+  {
+    "Table ID": "chargetype",
+    "Table Name": "Charge Type",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "chargetypetranslations",
+    "Table Name": "Translation",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "checkexpensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Check"
+  },
+  {
+    "Table ID": "checkpayeeaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "classification",
+    "Table Name": "Class",
+    "Permission Needed": "Lists - Classes"
+  },
+  {
+    "Table ID": "classificationsubsidiarymap",
+    "Table Name": "Account Mapping",
+    "Permission Needed": "Lists - Subsidiaries"
+  },
+  {
+    "Table ID": "clientscript",
+    "Table Name": "Client Script",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "clientscriptdeployment",
+    "Table Name": "Client Script Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "cmscontent",
+    "Table Name": "CMS Content",
+    "Permission Needed": "Setup - Web Site Management"
+  },
+  {
+    "Table ID": "cmscontenttype",
+    "Table Name": "CMS Content Type",
+    "Permission Needed": "Setup - Web Site Management"
+  },
+  {
+    "Table ID": "cmscontenttypesitemapping",
+    "Table Name": "CMS Content Type Site Mapping",
+    "Permission Needed": "Setup - Web Site Management"
+  },
+  {
+    "Table ID": "cmspage",
+    "Table Name": "CMS Page",
+    "Permission Needed": "Setup - Web Site Management"
+  },
+  {
+    "Table ID": "commercecatalog",
+    "Table Name": "Commerce Catalog",
+    "Permission Needed": "Setup - Commerce Categories"
+  },
+  {
+    "Table ID": "consolidatedexchangerate",
+    "Table Name": "Consolidated Exchange Rate",
+    "Permission Needed": "Lists - Currency"
+  },
+  {
+    "Table ID": "consolidatedrateadjustorplugin",
+    "Table Name": "Consolidated Rate Adjustor Plugin",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "costcategory",
+    "Table Name": "Cost Category",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "couponcode",
+    "Table Name": "Coupon Code",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "creditmemobillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "creditmemoitemshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "creditmemoshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "currency",
+    "Table Name": "Currency",
+    "Permission Needed": "Lists - Currency"
+  },
+  {
+    "Table ID": "currencyrate",
+    "Table Name": "Exchange Rate",
+    "Permission Needed": "Lists - Currency"
+  },
+  {
+    "Table ID": "customglplugin",
+    "Table Name": "Custom GL Plugin",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "custominstallmentpercent",
+    "Table Name": "Installments",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "customer",
+    "Table Name": "Customer",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "customeraddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "customerbulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "customercampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "customercategory",
+    "Table Name": "Customer Category",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "customercompanycontact",
+    "Table Name": "Contacts",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "customercurrencybalance",
+    "Table Name": "Currencies",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "customereftacct",
+    "Table Name": "EFT",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "customergrouppricing",
+    "Table Name": "Group Pricing",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "customeritempricing",
+    "Table Name": "Item Pricing",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "customermessage",
+    "Table Name": "Customer Message",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "customerpartner",
+    "Table Name": "Partners",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "customerproject",
+    "Table Name": "Customer/Project",
+    "Permission Needed": "Lists - Customers"
+  },
+  {
+    "Table ID": "customerrefundpayeeaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "datesfixedamount",
+    "Table Name": "Date Scheduled - Amount",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "datespctfromtotal",
+    "Table Name": "Date Scheduled - Percent From Total",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "department",
+    "Table Name": "Department",
+    "Permission Needed": "Lists - Departments"
+  },
+  {
+    "Table ID": "departmentsubsidiarymap",
+    "Table Name": "Department",
+    "Permission Needed": "Lists - Subsidiaries"
+  },
+  {
+    "Table ID": "descriptionitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "descriptionitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "deviceid",
+    "Table Name": "Device ID",
+    "Permission Needed": "Setup - Device ID Management"
+  },
+  {
+    "Table ID": "discountitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "discountitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "distributioncategory",
+    "Table Name": "Distribution Category",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "distributionnetwork",
+    "Table Name": "Distribution Network",
+    "Permission Needed": "Lists - Distribution Network"
+  },
+  {
+    "Table ID": "distributionnetworkdistributioncategory",
+    "Table Name": "Distribution Category",
+    "Permission Needed": "Lists - Distribution Network"
+  },
+  {
+    "Table ID": "distributionnetworksubsidiary",
+    "Table Name": "Distribution Network Subsidary Map",
+    "Permission Needed": "Lists - Distribution Network"
+  },
+  {
+    "Table ID": "domain",
+    "Table Name": "Domain",
+    "Permission Needed": "Setup - Set Up Domains"
+  },
+  {
+    "Table ID": "downloaditemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "downloaditemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "downloaditemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "downloaditemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "downloaditemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "downloaditemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "downloaditemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "downloaditemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "downloaditemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "emailcaptureplugin",
+    "Table Name": "Email Capture Plugin",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "employee",
+    "Table Name": "Employee",
+    "Permission Needed": "Lists - Employee Record"
+  },
+  {
+    "Table ID": "employeeaccruedtime",
+    "Table Name": "Accrued Time",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeeaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "employeebulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "employeecampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "employeecompanycontribution",
+    "Table Name": "Company Contributions",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeededuction",
+    "Table Name": "Deductions",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeeearning",
+    "Table Name": "Earnings",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeeemergencycontact",
+    "Table Name": "Emergency Contacts",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeeempperms",
+    "Table Name": "Permissions",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeehcmposition",
+    "Table Name": "Positions",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeehreducation",
+    "Table Name": "Education",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeelist",
+    "Table Name": "Employee Directory",
+    "Permission Needed": "Setup - Publish Employee List"
+  },
+  {
+    "Table ID": "employeelistsitecategoryurlcomponentalias",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "employeerate",
+    "Table Name": "Rates",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "employeesubsidiaryrelationship",
+    "Table Name": "Employee-Subsidiary Relationship",
+    "Permission Needed": "Lists - Employee Record"
+  },
+  {
+    "Table ID": "employeetaxoptions",
+    "Table Name": "Taxes",
+    "Permission Needed": "Lists - Employees"
+  },
+  {
+    "Table ID": "entity",
+    "Table Name": "Entity",
+    "Permission Needed": "Lists - Perform Search"
+  },
+  {
+    "Table ID": "entityaccountmapping",
+    "Table Name": "Entity Account Mapping",
+    "Permission Needed": "Setup - Entity Account Mapping"
+  },
+  {
+    "Table ID": "entitybulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "entitygroup",
+    "Table Name": "Group",
+    "Permission Needed": "Lists - CRM Groups"
+  },
+  {
+    "Table ID": "entitygroupcampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "entityrate",
+    "Table Name": "Rates",
+    "Permission Needed": "Lists - Perform Search"
+  },
+  {
+    "Table ID": "entitysubsidiaryrelationship",
+    "Table Name": "Entity-Subsidiary Relationship",
+    "Permission Needed": "Lists - Perform Search"
+  },
+  {
+    "Table ID": "estimatebillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "estimateitemshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "estimateshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "expenseamortizationevent",
+    "Table Name": "Expense Amortization Event",
+    "Permission Needed": "Lists - Expense Amortization Plan"
+  },
+  {
+    "Table ID": "expenseamortizationrule",
+    "Table Name": "Expense Amortization Rule",
+    "Permission Needed": "Lists - Expense Amortization Rule"
+  },
+  {
+    "Table ID": "expensecategory",
+    "Table Name": "Expense Category",
+    "Permission Needed": "Lists - Expense Categories"
+  },
+  {
+    "Table ID": "expenseitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "expenseitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "expensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Expense Report"
+  },
+  {
+    "Table ID": "expenseplan",
+    "Table Name": "Expense Amortization Plan",
+    "Permission Needed": "Lists - Expense Amortization Plan"
+  },
+  {
+    "Table ID": "expenseplanplannedexpense",
+    "Table Name": "Planned Expense",
+    "Permission Needed": "Lists - Expense Amortization Plan"
+  },
+  {
+    "Table ID": "expenserulecustomline",
+    "Table Name": "Recurrence",
+    "Permission Needed": "Lists - Expense Amortization Rule"
+  },
+  {
+    "Table ID": "fairvaluedimension",
+    "Table Name": "Fair Value Dimension",
+    "Permission Needed": "Lists - Fair Value Dimension"
+  },
+  {
+    "Table ID": "fairvalueformula",
+    "Table Name": "Fair Value Formula",
+    "Permission Needed": "Lists - Fair Value Formula"
+  },
+  {
+    "Table ID": "fairvalueprice",
+    "Table Name": "Fair Value Price",
+    "Permission Needed": "Lists - Fair Value Price"
+  },
+  {
+    "Table ID": "fiscalcalendar",
+    "Table Name": "Fiscal Calendar",
+    "Permission Needed": "Setup - Manage Accounting Periods"
+  },
+  {
+    "Table ID": "fixedamountprojectrevenuerule",
+    "Table Name": "Fixed Amount Project Revenue Rule",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "fixedamountprojectrevenueruleprojectrevenuerlchargerl",
+    "Table Name": "Charge Rules",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "forecast",
+    "Table Name": "Forecast",
+    "Permission Needed": "Transactions - Edit Forecast"
+  },
+  {
+    "Table ID": "fulfillmentexceptionreason",
+    "Table Name": "Fulfillment Exception Reason",
+    "Permission Needed": "Setup - Fulfillment Exception Reason"
+  },
+  {
+    "Table ID": "fulfillmentrequest",
+    "Table Name": "Fulfillment Request",
+    "Permission Needed": "Transactions - Fulfillment Request"
+  },
+  {
+    "Table ID": "fulfillmentrequestexception",
+    "Table Name": "Fulfillment Exceptions",
+    "Permission Needed": "Transactions - Fulfillment Request"
+  },
+  {
+    "Table ID": "fulfillmentrequestitem",
+    "Table Name": "Items",
+    "Permission Needed": "Transactions - Fulfillment Request"
+  },
+  {
+    "Table ID": "fulfillmentrequestitemexception",
+    "Table Name": "Fulfillment Exceptions",
+    "Permission Needed": "Transactions - Fulfillment Request"
+  },
+  {
+    "Table ID": "gatewaynotification",
+    "Table Name": "Payment Gateway Asynchronous Notifications",
+    "Permission Needed": "Transactions - View Gateway Asynchronous Notifications"
+  },
+  {
+    "Table ID": "generalallocationschedule",
+    "Table Name": "Allocation Schedule",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "generalallocationschedulejournalcreatedbyallocation",
+    "Table Name": "Journal Entry Created",
+    "Permission Needed": "Transactions - Create Allocation Schedules"
+  },
+  {
+    "Table ID": "generaltoken",
+    "Table Name": "General Token",
+    "Permission Needed": "Lists - General Token"
+  },
+  {
+    "Table ID": "generalizeditem",
+    "Table Name": "Item",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "genericresource",
+    "Table Name": "Generic Resource",
+    "Permission Needed": "Lists - Generic Resources"
+  },
+  {
+    "Table ID": "genericresourcesubsidiaryrelationship",
+    "Table Name": "Generic Resource-Subsidiary Relationship",
+    "Permission Needed": "Lists - Generic Resources"
+  },
+  {
+    "Table ID": "giftcertificateitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "giftcertificateitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "giftcertificateitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "giftcertificateitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "giftcertificateitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "giftcertificateitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "gllinesauditlog",
+    "Table Name": "Custom GL Lines Audit Log",
+    "Permission Needed": "Lists - Custom GL Lines Plug-in Audit Log"
+  },
+  {
+    "Table ID": "gllinesauditlogline",
+    "Table Name": "Custom GL Audit Log Line",
+    "Permission Needed": "Lists - Custom GL Lines Plug-in Audit Log"
+  },
+  {
+    "Table ID": "gllinespluginrevision",
+    "Table Name": "Custom GL Lines Plug-in Revisions",
+    "Permission Needed": "Lists - Custom GL Lines Plug-in Audit Log"
+  },
+  {
+    "Table ID": "globalaccountmapping",
+    "Table Name": "Global Account Mapping",
+    "Permission Needed": "Setup - Global Account Mapping"
+  },
+  {
+    "Table ID": "globalinventoryrelationship",
+    "Table Name": "Global Inventory Relationship",
+    "Permission Needed": "Lists - Global Inventory Relationship"
+  },
+  {
+    "Table ID": "iprestrictions",
+    "Table Name": "Login Restrictions",
+    "Permission Needed": "Setup - View Login Audit Trail"
+  },
+  {
+    "Table ID": "incoterm",
+    "Table Name": "Incoterm",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "inventorycosttemplate",
+    "Table Name": "Inventory Cost Template",
+    "Permission Needed": "Lists - Inventory Cost Template"
+  },
+  {
+    "Table ID": "inventorycosttemplatecostdetail",
+    "Table Name": "Cost Detail",
+    "Permission Needed": "Lists - Inventory Cost Template"
+  },
+  {
+    "Table ID": "inventoryitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventoryitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventoryitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventoryitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "inventoryitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventoryitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "inventoryitemlocations",
+    "Table Name": "Locations",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventoryitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventoryitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventoryitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventoryitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventorynumber",
+    "Table Name": "Serial/Lot Number",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "inventorystatus",
+    "Table Name": "Inventory Status",
+    "Permission Needed": "Lists - Inventory Status"
+  },
+  {
+    "Table ID": "invoicebillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "invoiceitemshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "invoiceshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "invtitempricehistory",
+    "Table Name": "Item Pricing",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "issue",
+    "Table Name": "Issue",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "issueissuecasemap",
+    "Table Name": "Cases",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "issuemodule",
+    "Table Name": "Product Modules",
+    "Permission Needed": "Setup - Issue Setup"
+  },
+  {
+    "Table ID": "issueproductbuild",
+    "Table Name": "Build",
+    "Permission Needed": "Setup - Issue Setup"
+  },
+  {
+    "Table ID": "issueproductversion",
+    "Table Name": "Product Version",
+    "Permission Needed": "Setup - Issue Setup"
+  },
+  {
+    "Table ID": "issuerelationship",
+    "Table Name": "Related Issue",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "issueversionbrokenmap",
+    "Table Name": "Issue version broken in",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "issueversionfixedmap",
+    "Table Name": "Issue version fixed in",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "issueversiontargetmap",
+    "Table Name": "Issue version target",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "item",
+    "Table Name": "Item",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemaccountmapping",
+    "Table Name": "Item Account Mapping",
+    "Permission Needed": "Setup - Item Account Mapping"
+  },
+  {
+    "Table ID": "itemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itembasesubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itembinquantity",
+    "Table Name": "Bin Numbers",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemcollection",
+    "Table Name": "Item Collection",
+    "Permission Needed": "Lists - Item Collection"
+  },
+  {
+    "Table ID": "itemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemdemandplan",
+    "Table Name": "Item Demand Plan",
+    "Permission Needed": "Lists - Item Demand Plan"
+  },
+  {
+    "Table ID": "itemdemandplandemandplandetail",
+    "Table Name": "Demand",
+    "Permission Needed": "Lists - Item Demand Plan"
+  },
+  {
+    "Table ID": "itemfulfillmentreturnaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "itemfulfillmentshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "itemgroupmember",
+    "Table Name": "Members",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemgroupsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemgrouptranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemlocationconfiguration",
+    "Table Name": "Item Location Configuration",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemmember",
+    "Table Name": "Members",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "itemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemrevenuecategory",
+    "Table Name": "Item Revenue Category",
+    "Permission Needed": "Lists - Item Revenue Category"
+  },
+  {
+    "Table ID": "itemrevision",
+    "Table Name": "Item Revision",
+    "Permission Needed": "Lists - Item Revisions"
+  },
+  {
+    "Table ID": "itemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemsupplyplan",
+    "Table Name": "Item Supply Plan",
+    "Permission Needed": "Lists - Item Supply Plan"
+  },
+  {
+    "Table ID": "itemsupplyplanorder",
+    "Table Name": "Orders",
+    "Permission Needed": "Lists - Item Supply Plan"
+  },
+  {
+    "Table ID": "itemsupplyplanplanningmessage",
+    "Table Name": "Planning Message",
+    "Permission Needed": "Lists - Item Supply Plan"
+  },
+  {
+    "Table ID": "itemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "itemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "job",
+    "Table Name": "Job",
+    "Permission Needed": "Lists - Jobs"
+  },
+  {
+    "Table ID": "jobaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "jobbulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "jobcompanycontact",
+    "Table Name": "Contacts",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "jobrequisition",
+    "Table Name": "Job Requisition",
+    "Permission Needed": "Lists - HCMJob Requisitions"
+  },
+  {
+    "Table ID": "jobresourcerole",
+    "Table Name": "Job Resource Role",
+    "Permission Needed": "Setup - Other Lists"
+  },
+  {
+    "Table ID": "jobstatus",
+    "Table Name": "Job Status",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "jobtype",
+    "Table Name": "Job Type",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "kititemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "kititemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "kititemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "kititemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "kititemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "kititemmember",
+    "Table Name": "Members",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "kititemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "kititemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "kititemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "kititemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "knowledgebase",
+    "Table Name": "Knowledge Base",
+    "Permission Needed": "Setup - Publish Knowledge Base"
+  },
+  {
+    "Table ID": "kudosorganizationvaluemap",
+    "Table Name": "Kudos",
+    "Permission Needed": "Lists - Kudos"
+  },
+  {
+    "Table ID": "kudosrecipientmap",
+    "Table Name": "Kudos",
+    "Permission Needed": "Lists - Kudos"
+  },
+  {
+    "Table ID": "laborbasedprojectrevenuerule",
+    "Table Name": "Labor Based Project Revenue Rule",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "laborbasedprojectrevenueruleprojectrevenuerlchargerl",
+    "Table Name": "Charge Rules",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "leadsource",
+    "Table Name": "Lead Source",
+    "Permission Needed": "Setup - CRM Lists"
+  },
+  {
+    "Table ID": "location",
+    "Table Name": "Location",
+    "Permission Needed": "Lists - Locations"
+  },
+  {
+    "Table ID": "locationassignmentruleloctypemap",
+    "Table Name": "Location Type",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "locationassignmentrulelocationmap",
+    "Table Name": "Limited Locations",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "locationassignmentrulesubsidiarymap",
+    "Table Name": "Allowed Subsidiaries",
+    "Permission Needed": "Setup - Set Up Company"
+  },
+  {
+    "Table ID": "locationcostinggroup",
+    "Table Name": "Location Costing Group",
+    "Permission Needed": "Setup - Location Costing Group"
+  },
+  {
+    "Table ID": "locationcostinggrouplocation",
+    "Table Name": "Location",
+    "Permission Needed": "Setup - Location Costing Group"
+  },
+  {
+    "Table ID": "locationmainaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "locationreturnaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "locationsubsidiarymap",
+    "Table Name": "Location Subsidiary Map",
+    "Permission Needed": "Lists - Subsidiaries"
+  },
+  {
+    "Table ID": "manufacturingcomponent",
+    "Table Name": "Manufacturing Component",
+    "Permission Needed": "Transactions - Find Transaction"
+  },
+  {
+    "Table ID": "manufacturingcosttemplate",
+    "Table Name": "Manufacturing Cost Template",
+    "Permission Needed": "Lists - Manufacturing Cost Template"
+  },
+  {
+    "Table ID": "manufacturingcosttemplatecostdetail",
+    "Table Name": "Cost Detail",
+    "Permission Needed": "Lists - Manufacturing Cost Template"
+  },
+  {
+    "Table ID": "manufacturingoperationtask",
+    "Table Name": "Manufacturing Operation Task",
+    "Permission Needed": "Transactions - Work Order"
+  },
+  {
+    "Table ID": "manufacturingoperationtaskcostdetail",
+    "Table Name": "Cost Detail",
+    "Permission Needed": "Transactions - Work Order"
+  },
+  {
+    "Table ID": "manufacturingoperationtaskpredecessor",
+    "Table Name": "Predecessors",
+    "Permission Needed": "Transactions - Work Order"
+  },
+  {
+    "Table ID": "manufacturingrouting",
+    "Table Name": "Manufacturing Routing",
+    "Permission Needed": "Lists - Manufacturing Routing"
+  },
+  {
+    "Table ID": "manufacturingroutingcomponent",
+    "Table Name": "Component Per Operation",
+    "Permission Needed": "Lists - Manufacturing Routing"
+  },
+  {
+    "Table ID": "manufacturingroutinglocationmap",
+    "Table Name": null,
+    "Permission Needed": "Lists - Manufacturing Routing"
+  },
+  {
+    "Table ID": "manufacturingroutingroutingstep",
+    "Table Name": "Routing Steps",
+    "Permission Needed": "Lists - Manufacturing Routing"
+  },
+  {
+    "Table ID": "manufacturingtransaction",
+    "Table Name": "Manufacturing Transaction",
+    "Permission Needed": "Transactions - Find Transaction"
+  },
+  {
+    "Table ID": "mapreducescript",
+    "Table Name": "Map/Reduce Script",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "mapreducescriptdeployment",
+    "Table Name": "Map/Reduce Script Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "markupitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "markupitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "massupdatescript",
+    "Table Name": "Massupdate Script",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "massupdatescriptdeployment",
+    "Table Name": "Massupdate Script Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "memdoctransactiontemplate",
+    "Table Name": "Memorized Transaction Template",
+    "Permission Needed": "Lists - Memorized Transactions"
+  },
+  {
+    "Table ID": "memdoctransactiontemplateline",
+    "Table Name": "Transaction Line",
+    "Permission Needed": "Lists - Memorized Transactions"
+  },
+  {
+    "Table ID": "mfgplannedtime",
+    "Table Name": "Manufacturing Planned Time",
+    "Permission Needed": "Transactions - Work Order"
+  },
+  {
+    "Table ID": "noninventoryitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "noninventoryitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "noninventoryitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorypurchaseitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorypurchaseitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "noninventorypurchaseitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorypurchaseitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryresaleitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryresaleitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryresaleitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryresaleitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "noninventoryresaleitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryresaleitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "noninventoryresaleitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryresaleitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryresaleitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventoryresaleitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorysaleitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorysaleitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorysaleitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorysaleitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "noninventorysaleitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorysaleitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorysaleitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorysaleitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "noninventorysaleitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "note",
+    "Table Name": "Note",
+    "Permission Needed": "Lists - Notes Tab"
+  },
+  {
+    "Table ID": "oauthtoken",
+    "Table Name": "Access Token",
+    "Permission Needed": "Setup - Access Token Management"
+  },
+  {
+    "Table ID": "onlinecaseform",
+    "Table Name": "Online Case Form",
+    "Permission Needed": "Setup - Online Case Form"
+  },
+  {
+    "Table ID": "onlineformtemplate",
+    "Table Name": "Online Form Template",
+    "Permission Needed": "Lists - Marketing Template"
+  },
+  {
+    "Table ID": "onlineformtemplatecategorycrmtemplate",
+    "Table Name": "Templates",
+    "Permission Needed": "Lists - Template Categories"
+  },
+  {
+    "Table ID": "onlineleadform",
+    "Table Name": "Online Lead Form",
+    "Permission Needed": "Setup - Online Customer Form"
+  },
+  {
+    "Table ID": "opportunitybillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "opportunityshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "orderallocationstrategy",
+    "Table Name": "Order Allocation Strategy",
+    "Permission Needed": "Setup - Order Allocation Strategy"
+  },
+  {
+    "Table ID": "otherchargeitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargeitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "otherchargeitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargeitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "otherchargeitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargeitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargepurchaseitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargepurchaseitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "otherchargepurchaseitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargepurchaseitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargeresaleitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargeresaleitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "otherchargeresaleitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargeresaleitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "otherchargeresaleitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargeresaleitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargesaleitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargesaleitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "otherchargesaleitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargesaleitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "otherchargesaleitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "othername",
+    "Table Name": "Other Name",
+    "Permission Needed": "Lists - Other Names"
+  },
+  {
+    "Table ID": "othernameaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "othernamebulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "othernamecampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "othernamecategory",
+    "Table Name": "Other Name Category",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "othernamecompanycontact",
+    "Table Name": "Contacts",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "othernamesubsidiaryrelationship",
+    "Table Name": "Other Name-Subsidiary Relationship",
+    "Permission Needed": "Lists - Other Names"
+  },
+  {
+    "Table ID": "outboundrequest",
+    "Table Name": "Outbound Requests",
+    "Permission Needed": "Lists - Outbound Request"
+  },
+  {
+    "Table ID": "partnersubsidiaryrelationship",
+    "Table Name": "Partner-Subsidiary Relationship",
+    "Permission Needed": "Lists - Partners"
+  },
+  {
+    "Table ID": "paycheck",
+    "Table Name": "Paycheck",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paycheckpaycommissions",
+    "Table Name": "Commissions",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paycheckpaycontributions",
+    "Table Name": "Contributions",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paycheckpaydeductions",
+    "Table Name": "Deductions",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paycheckpayearnings",
+    "Table Name": "Earnings",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paycheckpayexpenses",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paycheckpaypto",
+    "Table Name": "PTO Hours",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paycheckpaytax",
+    "Table Name": "Taxes",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paycheckpaytime",
+    "Table Name": "Time",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paychecksummary",
+    "Table Name": "Summary",
+    "Permission Needed": "Transactions - Individual Paycheck"
+  },
+  {
+    "Table ID": "paymentcardsearchrecord",
+    "Table Name": "Payment Card",
+    "Permission Needed": "Lists - Payment Card"
+  },
+  {
+    "Table ID": "paymentcardtoken",
+    "Table Name": "Payment Card Token",
+    "Permission Needed": "Lists - Payment Card Token"
+  },
+  {
+    "Table ID": "paymentevent",
+    "Table Name": "Payment Event",
+    "Permission Needed": "Transactions - View Payment Events"
+  },
+  {
+    "Table ID": "paymentgatewayplugin",
+    "Table Name": "Payment Gateway Plugin",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "paymentinstrument",
+    "Table Name": "Payment Instrument",
+    "Permission Needed": "Lists - Payment Instruments"
+  },
+  {
+    "Table ID": "paymentitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "paymentitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "paymentmethod",
+    "Table Name": "Payment Method",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "paymentmethodvisual",
+    "Table Name": "Payment Visuals",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "paymentprocessingprofile",
+    "Table Name": "Payment processing profile",
+    "Permission Needed": "Setup - Credit Card Processing"
+  },
+  {
+    "Table ID": "payrollbatch",
+    "Table Name": "Payroll Batch",
+    "Permission Needed": "Transactions - Process Payroll"
+  },
+  {
+    "Table ID": "payrollitem",
+    "Table Name": "Payroll Item",
+    "Permission Needed": "Lists - Payroll Items"
+  },
+  {
+    "Table ID": "pctcompleteprojectrevenuerule",
+    "Table Name": "Percent Complete Project Revenue Rule",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "plannedstandardcost",
+    "Table Name": "Planned Standard Cost",
+    "Permission Needed": "Lists - Planned Standard Cost"
+  },
+  {
+    "Table ID": "plannedstandardcostcomponents",
+    "Table Name": "Cost Components",
+    "Permission Needed": "Lists - Planned Standard Cost"
+  },
+  {
+    "Table ID": "platformextensionplugin",
+    "Table Name": "Platform Extension Plug-in",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "plugintype",
+    "Table Name": "Custom Plug-In Type",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "plugintypeimpl",
+    "Table Name": "Custom Plug-in Implementation",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "portlet",
+    "Table Name": "Portlet",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "portletdeployment",
+    "Table Name": "Portlet Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "positionreportstomachine",
+    "Table Name": "Reporting Relationships",
+    "Permission Needed": "Lists - Positions"
+  },
+  {
+    "Table ID": "pricebook",
+    "Table Name": "Price Book",
+    "Permission Needed": "Lists - Subscription Plan"
+  },
+  {
+    "Table ID": "pricelevel",
+    "Table Name": "Price Level",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "priceplan",
+    "Table Name": "Price Plan",
+    "Permission Needed": "Lists - Subscription Plan"
+  },
+  {
+    "Table ID": "pricetiers",
+    "Table Name": "Price Plan Price Tiers",
+    "Permission Needed": "Lists - Subscription Plan"
+  },
+  {
+    "Table ID": "pricing",
+    "Table Name": "Pricing",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "pricinggroup",
+    "Table Name": "Pricing Group",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "projectbillingbudget",
+    "Table Name": "Billing Budget",
+    "Permission Needed": "Lists - Jobs"
+  },
+  {
+    "Table ID": "projectbudget",
+    "Table Name": "Project Budget",
+    "Permission Needed": "Lists - Project Budget"
+  },
+  {
+    "Table ID": "projectcostbudget",
+    "Table Name": "Cost Budget",
+    "Permission Needed": "Lists - Jobs"
+  },
+  {
+    "Table ID": "projectexpensetype",
+    "Table Name": "Project Expense Type",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "projectexpensetypetranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "projectrevenuerlchargerl",
+    "Table Name": "Charge Rules",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "projectrevenueruleprojectrevenuerlchargerl",
+    "Table Name": "Charge Rules",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "projectsubsidiaryrelationship",
+    "Table Name": "Job-Subsidiary Relationship",
+    "Permission Needed": "Lists - Jobs"
+  },
+  {
+    "Table ID": "projecttask",
+    "Table Name": "Project Task",
+    "Permission Needed": "Lists - Project Tasks"
+  },
+  {
+    "Table ID": "projecttaskassignee",
+    "Table Name": "Resources",
+    "Permission Needed": "Lists - Project Tasks"
+  },
+  {
+    "Table ID": "projecttaskbillingbudget",
+    "Table Name": "Billing Budget",
+    "Permission Needed": "Lists - Project Tasks"
+  },
+  {
+    "Table ID": "projecttaskcostbudget",
+    "Table Name": "Cost Budget",
+    "Permission Needed": "Lists - Project Tasks"
+  },
+  {
+    "Table ID": "projecttaskpredecessor",
+    "Table Name": "Predecessors",
+    "Permission Needed": "Lists - Project Tasks"
+  },
+  {
+    "Table ID": "projecttemplate",
+    "Table Name": "Project Template",
+    "Permission Needed": "Lists - Project Templates"
+  },
+  {
+    "Table ID": "projecttemplatejobresource",
+    "Table Name": "Resources",
+    "Permission Needed": "Lists - Project Templates"
+  },
+  {
+    "Table ID": "projecttemplatesubsidiaryrelationship",
+    "Table Name": "Project Template-Subsidiary Relationship",
+    "Permission Needed": "Lists - Project Templates"
+  },
+  {
+    "Table ID": "promotioncode",
+    "Table Name": "Promotion",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "promotioncodecampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "promotioncodecouponinstances",
+    "Table Name": "Coupon Codes",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "promotioncodecurrency",
+    "Table Name": "Minimum Order Amount",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "promotioncodediscounteditems",
+    "Table Name": "Items",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "promotioncodeitems",
+    "Table Name": "Items",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "promotioncodepartnermap",
+    "Table Name": "Partners",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "promotioncodewebsitemap",
+    "Table Name": "Website",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "promotioncodelocationmap",
+    "Table Name": "Location",
+    "Permission Needed": "Lists - Promotion"
+  },
+  {
+    "Table ID": "promotionsplugin",
+    "Table Name": "Promotions Plugin",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "publishedsavedsearch",
+    "Table Name": "Published Saved Search",
+    "Permission Needed": "Lists - Presentation Categories"
+  },
+  {
+    "Table ID": "publishedsavedsearchsitecategoryurlcomponentalias",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "purchasecontractdiscount",
+    "Table Name": "Discount",
+    "Permission Needed": "Transactions - Purchase Contract"
+  },
+  {
+    "Table ID": "purchaseorderbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "purchaseorderexpensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Purchase Order"
+  },
+  {
+    "Table ID": "purchaseordershippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "purchaserequisitionexpensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Requisition"
+  },
+  {
+    "Table ID": "purchaserequisitionexpensepurchaseorderexpensemap",
+    "Table Name": "PurchOrd <-> PurchReq Map",
+    "Permission Needed": "Transactions - Requisition"
+  },
+  {
+    "Table ID": "quantitypricingschedule",
+    "Table Name": "Quantity Pricing Schedule",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "quantitypricingscheduleleveledit",
+    "Table Name": "Quantity Price",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "quantitypricingschedulelevelspreadsheet",
+    "Table Name": "Quantity Price Structure",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "quota",
+    "Table Name": "Quota",
+    "Permission Needed": "Transactions - Establish Quotas"
+  },
+  {
+    "Table ID": "ratableeventtype",
+    "Table Name": "Custom Recognition Event Type",
+    "Permission Needed": "Lists - Revenue Recognition Rule"
+  },
+  {
+    "Table ID": "redirect",
+    "Table Name": "Web Site Redirect",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "requestforquotediscount",
+    "Table Name": "Discount",
+    "Permission Needed": "Transactions - Request For Quote"
+  },
+  {
+    "Table ID": "resourceallocation",
+    "Table Name": "Resource Allocation",
+    "Permission Needed": "Lists - Resource Allocations"
+  },
+  {
+    "Table ID": "resourcegroup",
+    "Table Name": "Resource Group",
+    "Permission Needed": "Lists - Resource Groups"
+  },
+  {
+    "Table ID": "resourcegroupmembers",
+    "Table Name": "Resources",
+    "Permission Needed": "Lists - Resource Groups"
+  },
+  {
+    "Table ID": "resourcerateoverride",
+    "Table Name": "Resources",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "restlet",
+    "Table Name": "Restlet",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "restletdeployment",
+    "Table Name": "Restlet Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "returnauthorizationbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "returnauthorizationshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "revrecrulecustomline",
+    "Table Name": "Recurrence",
+    "Permission Needed": "Lists - Revenue Recognition Rule"
+  },
+  {
+    "Table ID": "revrecschedule",
+    "Table Name": "Revenue Recognition Schedule",
+    "Permission Needed": "Lists - Revenue Recognition Schedules"
+  },
+  {
+    "Table ID": "revrecschedulerecurrence",
+    "Table Name": "Custom Recurrence Pattern",
+    "Permission Needed": "Lists - Revenue Recognition Schedules"
+  },
+  {
+    "Table ID": "revrectemplate",
+    "Table Name": "Revenue Recognition Template",
+    "Permission Needed": "Lists - Revenue Recognition Schedules"
+  },
+  {
+    "Table ID": "revrectemplaterecurrence",
+    "Table Name": "Custom Recurrence Pattern",
+    "Permission Needed": "Lists - Revenue Recognition Schedules"
+  },
+  {
+    "Table ID": "revenueallocationgroup",
+    "Table Name": "Revenue Allocation Group",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "revenuecommitmentbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "revenuecommitmentreversalbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "revenuecommitmentreversalshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "revenuecommitmentshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "revenueelement",
+    "Table Name": "Revenue Element",
+    "Permission Needed": "Lists - Revenue Element"
+  },
+  {
+    "Table ID": "revenueplan",
+    "Table Name": "Revenue Recognition Plan",
+    "Permission Needed": "Lists - Revenue Recognition Plan"
+  },
+  {
+    "Table ID": "revenueplanplannedcost",
+    "Table Name": "Cost Amortization",
+    "Permission Needed": "Lists - Revenue Recognition Plan"
+  },
+  {
+    "Table ID": "revenueplanplannedrevenue",
+    "Table Name": "Planned Revenue",
+    "Permission Needed": "Lists - Revenue Recognition Plan"
+  },
+  {
+    "Table ID": "revenuerecognitionrule",
+    "Table Name": "Revenue Recognition Rule",
+    "Permission Needed": "Lists - Revenue Recognition Rule"
+  },
+  {
+    "Table ID": "role",
+    "Table Name": "Role",
+    "Permission Needed": "Setup - Bulk Manage Roles"
+  },
+  {
+    "Table ID": "rolepermissions",
+    "Table Name": "Permissions",
+    "Permission Needed": "Setup - Bulk Manage Roles"
+  },
+  {
+    "Table ID": "rolerestrictions",
+    "Table Name": "Restrictions",
+    "Permission Needed": "Setup - Bulk Manage Roles"
+  },
+  {
+    "Table ID": "salesorderbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "salesorderitemshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "salesordershippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "salestaxitem",
+    "Table Name": "Tax Code",
+    "Permission Needed": "Lists - Tax Records"
+  },
+  {
+    "Table ID": "salesterritoryentity",
+    "Table Name": "Lead Assignment",
+    "Permission Needed": "Setup - Sales Territory"
+  },
+  {
+    "Table ID": "scheduledscript",
+    "Table Name": "Scheduled Script",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "scheduledscriptdeployment",
+    "Table Name": "Scheduled Script Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "scheduledscriptinstance",
+    "Table Name": "Scheduled Script Instance",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "script",
+    "Table Name": "Script",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "scriptdeployment",
+    "Table Name": "Script Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "scriptnote",
+    "Table Name": "Server Script Log",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "sentemail",
+    "Table Name": "Sent Email",
+    "Permission Needed": "Lists - Sent Emails"
+  },
+  {
+    "Table ID": "sentemailrecipient",
+    "Table Name": null,
+    "Permission Needed": "Lists - Sent Emails"
+  },
+  {
+    "Table ID": "serviceitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "serviceitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "serviceitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicepurchaseitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicepurchaseitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "servicepurchaseitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicepurchaseitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceresaleitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceresaleitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceresaleitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceresaleitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "serviceresaleitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceresaleitemitemvendor",
+    "Table Name": "Vendors",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "serviceresaleitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceresaleitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceresaleitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "serviceresaleitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicesaleitemcorrelateditem",
+    "Table Name": "Correlated Items",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicesaleitemimage",
+    "Table Name": "Associated Images",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicesaleitemitemaccountingbookdetail",
+    "Table Name": "Accounting Books",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicesaleitemitemquantitypricingdiscount",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Quantity pricing Schedules"
+  },
+  {
+    "Table ID": "servicesaleitemitemquantitypricinglevel",
+    "Table Name": "Levels",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicesaleitemsitecategory",
+    "Table Name": "Site Categories",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicesaleitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicesaleitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "servicesaleitemurlcomponentaliases",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "shippingmethodrulerelation",
+    "Table Name": "Shipping Items",
+    "Permission Needed": "Lists - Shipping Items"
+  },
+  {
+    "Table ID": "shippingpartnersplugin",
+    "Table Name": "Shipping Partners Plugin",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "sitecartcolumns",
+    "Table Name": "Site Cart Columns",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "sitecategoryurlcomponentalias",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "sitecurrency",
+    "Table Name": "Site Currency",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "siteentrypoint",
+    "Table Name": "Touch Points",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "sitesection",
+    "Table Name": "Site Section",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "solution",
+    "Table Name": "Solution",
+    "Permission Needed": "Lists - Knowledge Base"
+  },
+  {
+    "Table ID": "standardcostversion",
+    "Table Name": "Standard Cost Version",
+    "Permission Needed": "Lists - Standard Cost Version"
+  },
+  {
+    "Table ID": "standardcostversionlocationmap",
+    "Table Name": "Standard Cost Vesion to Location Map",
+    "Permission Needed": "Lists - Standard Cost Version"
+  },
+  {
+    "Table ID": "statisticaljournalentry",
+    "Table Name": "Statistical Journal",
+    "Permission Needed": "Transactions - Make Journal Entry"
+  },
+  {
+    "Table ID": "statisticalschedule",
+    "Table Name": "Statistical Schedule",
+    "Permission Needed": "Transactions - Make Journal Entry"
+  },
+  {
+    "Table ID": "storepickupfulfillment",
+    "Table Name": "Store Pickup Fulfillment",
+    "Permission Needed": "Transactions - Store Pickup Fulfillment"
+  },
+  {
+    "Table ID": "storepickupfulfillmentitem",
+    "Table Name": "Items",
+    "Permission Needed": "Transactions - Store Pickup Fulfillment"
+  },
+  {
+    "Table ID": "storetab",
+    "Table Name": "Web Site Tab",
+    "Permission Needed": "Lists - Store Tabs"
+  },
+  {
+    "Table ID": "storetaburlcomponentalias",
+    "Table Name": "URL Component Alias",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "sublist",
+    "Table Name": "Custom Sublist",
+    "Permission Needed": "Setup - Custom Sublist"
+  },
+  {
+    "Table ID": "subscription",
+    "Table Name": "Subscription",
+    "Permission Needed": "Lists - Subscriptions"
+  },
+  {
+    "Table ID": "subscriptionchangeorder",
+    "Table Name": "Subscription Change Order",
+    "Permission Needed": "Lists - Subscriptions"
+  },
+  {
+    "Table ID": "subscriptionline",
+    "Table Name": "Subscription Line",
+    "Permission Needed": "Lists - Subscriptions"
+  },
+  {
+    "Table ID": "subscriptionplan",
+    "Table Name": "Subscription Plan",
+    "Permission Needed": "Lists - Subscription Plan"
+  },
+  {
+    "Table ID": "subscriptionplanmember",
+    "Table Name": "Members",
+    "Permission Needed": "Lists - Subscription Plan"
+  },
+  {
+    "Table ID": "subscriptionplansubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "subscriptionrenewalhistory",
+    "Table Name": "Subscription Renewal History",
+    "Permission Needed": "Lists - Subscriptions"
+  },
+  {
+    "Table ID": "subscriptionterm",
+    "Table Name": "Subscription Term",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "subsidiary",
+    "Table Name": "Subsidiary",
+    "Permission Needed": "Lists - Subsidiaries"
+  },
+  {
+    "Table ID": "subsidiarymainaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "subsidiaryperiodendjournalgroupingsegmentmap",
+    "Table Name": "Subsidiary Period End Journal Grouping Segment Map",
+    "Permission Needed": "Lists - Subsidiaries"
+  },
+  {
+    "Table ID": "subsidiaryreturnaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "subsidiaryshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "subsidiarytaxregistration",
+    "Table Name": "Tax Registrations",
+    "Permission Needed": "Lists - Subsidiaries"
+  },
+  {
+    "Table ID": "subtotalitemsubsidiarymap",
+    "Table Name": "ItemSubsidiaries",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "subtotalitemtranslation",
+    "Table Name": "Translation",
+    "Permission Needed": "Lists - Items"
+  },
+  {
+    "Table ID": "suitelet",
+    "Table Name": "Suitelet",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "suiteletdeployment",
+    "Table Name": "Suitelet Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "supplychainsnapshot",
+    "Table Name": "Supply Chain Snapshot",
+    "Permission Needed": "Lists - Supply Chain Snapshot List"
+  },
+  {
+    "Table ID": "supplychainsnapshotdetails",
+    "Table Name": "Supply Chain Snapshot Details",
+    "Permission Needed": "Lists - Supply Chain Snapshot List"
+  },
+  {
+    "Table ID": "supplychainsnapshotsimulation",
+    "Table Name": "Supply Chain Snapshot Simulation",
+    "Permission Needed": "Lists - Supply Chain Snapshot List"
+  },
+  {
+    "Table ID": "supportcase",
+    "Table Name": "Case",
+    "Permission Needed": "Lists - Cases"
+  },
+  {
+    "Table ID": "supportcaseescalatehist",
+    "Table Name": "History",
+    "Permission Needed": "Lists - Cases"
+  },
+  {
+    "Table ID": "supportcaseescalatetomap",
+    "Table Name": "Escalate To",
+    "Permission Needed": "Lists - Cases"
+  },
+  {
+    "Table ID": "supportcaseissuemap",
+    "Table Name": "Issues",
+    "Permission Needed": "Lists - Issues"
+  },
+  {
+    "Table ID": "supportcasemediaitemmap",
+    "Table Name": "Files",
+    "Permission Needed": "Lists - Cases"
+  },
+  {
+    "Table ID": "supportcasesolutionmap",
+    "Table Name": "Solutions",
+    "Permission Needed": "Lists - Cases"
+  },
+  {
+    "Table ID": "tag",
+    "Table Name": "Tag",
+    "Permission Needed": "Lists - Website (External) publisher"
+  },
+  {
+    "Table ID": "taskitemstatus",
+    "Table Name": "Task Item Status",
+    "Permission Needed": "Setup - Manage Accounting Periods"
+  },
+  {
+    "Table ID": "tasksfixedamount",
+    "Table Name": "Task Complete - Amount",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "taskspctfromtotal",
+    "Table Name": "Task Complete - Percent From Total",
+    "Permission Needed": "Lists - Project Revenue Rules"
+  },
+  {
+    "Table ID": "taxcalculationplugin",
+    "Table Name": "Tax Calculation Plugin",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "taxitemtaxgroup",
+    "Table Name": "Tax Item",
+    "Permission Needed": "Lists - Tax Records"
+  },
+  {
+    "Table ID": "taxtype",
+    "Table Name": "Tax Type",
+    "Permission Needed": "Lists - Tax Records"
+  },
+  {
+    "Table ID": "taxtypenexusaccounts",
+    "Table Name": "Accounts",
+    "Permission Needed": "Lists - Tax Records"
+  },
+  {
+    "Table ID": "term",
+    "Table Name": "Terms",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "testplugin",
+    "Table Name": "Test Plugin",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "timebill",
+    "Table Name": "Time Tracking",
+    "Permission Needed": "Transactions - Track Time"
+  },
+  {
+    "Table ID": "timesheet",
+    "Table Name": "Weekly Timesheet",
+    "Permission Needed": "Transactions - Track Time"
+  },
+  {
+    "Table ID": "topicpublish",
+    "Table Name": "Published At",
+    "Permission Needed": "Lists - Knowledge Base"
+  },
+  {
+    "Table ID": "transaction",
+    "Table Name": "Transaction",
+    "Permission Needed": "Transactions - Find Transaction"
+  },
+  {
+    "Table ID": "transactionaddressmapping",
+    "Table Name": "Transaction Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactionaddressmappingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactionbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactionbillingaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactiondeletionreason",
+    "Table Name": "Transaction Deletion Reason",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "transactionhistory",
+    "Table Name": "Transaction Audit Trail",
+    "Permission Needed": "Transactions - Audit Trail"
+  },
+  {
+    "Table ID": "transactionline",
+    "Table Name": "Transaction Line",
+    "Permission Needed": "Transactions - Find Transaction"
+  },
+  {
+    "Table ID": "transactionlineaddressmapping",
+    "Table Name": "Transaction Line Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactionlineaddressmappinglineaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactionnumberingauditlog",
+    "Table Name": "Transaction Numbering Audit Log",
+    "Permission Needed": "Lists - Access to transaction numbering audit log"
+  },
+  {
+    "Table ID": "transactionpayeeaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactionreturnaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactionshippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactionshippingaddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "transactiontaxdetail",
+    "Table Name": "Tax Detail",
+    "Permission Needed": "Lists - Tax Records"
+  },
+  {
+    "Table ID": "transferordershippingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "undeliveredemail",
+    "Table Name": "Undelivered Email",
+    "Permission Needed": "Lists - Undelivered Emails"
+  },
+  {
+    "Table ID": "unitstype",
+    "Table Name": "Units Type",
+    "Permission Needed": "Lists - Units"
+  },
+  {
+    "Table ID": "unitstypeuom",
+    "Table Name": "Units",
+    "Permission Needed": "Lists - Units"
+  },
+  {
+    "Table ID": "upsellitem",
+    "Table Name": "Upsell",
+    "Permission Needed": "Lists - Upsell Assistant"
+  },
+  {
+    "Table ID": "usage",
+    "Table Name": "Usage",
+    "Permission Needed": "Lists - Subscriptions"
+  },
+  {
+    "Table ID": "usereventscript",
+    "Table Name": "Userevent Script",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "useroauthtoken",
+    "Table Name": "My Access Token",
+    "Permission Needed": "Setup - User Access Tokens"
+  },
+  {
+    "Table ID": "vendor",
+    "Table Name": "Vendor",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "vendorachacct",
+    "Table Name": "ACH",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "vendoraddressbookentityaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "vendorbillbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "vendorbillexpensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Bills"
+  },
+  {
+    "Table ID": "vendorbulkmerge",
+    "Table Name": "Bulk Merge",
+    "Permission Needed": "Lists - Mail Merge"
+  },
+  {
+    "Table ID": "vendorcampaigns",
+    "Table Name": "Campaigns",
+    "Permission Needed": "Lists - Campaign History"
+  },
+  {
+    "Table ID": "vendorcategory",
+    "Table Name": "Vendor Category",
+    "Permission Needed": "Setup - Accounting Lists"
+  },
+  {
+    "Table ID": "vendorcompanycontact",
+    "Table Name": "Contacts",
+    "Permission Needed": "Lists - Contacts"
+  },
+  {
+    "Table ID": "vendorcreditbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "vendorcreditexpensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Enter Vendor Credits"
+  },
+  {
+    "Table ID": "vendorcurrencybalance",
+    "Table Name": "Currencies",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "vendorpaymentpayeeaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "vendorrate",
+    "Table Name": "Rates",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "vendorrequestforquotediscount",
+    "Table Name": "Discount",
+    "Permission Needed": "Transactions - Vendor Request For Quote"
+  },
+  {
+    "Table ID": "vendorreturnauthorizationbillingaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  },
+  {
+    "Table ID": "vendorreturnauthorizationexpensemachine",
+    "Table Name": "Expenses",
+    "Permission Needed": "Transactions - Vendor Return Authorization"
+  },
+  {
+    "Table ID": "vendorsubsidiaryrelationship",
+    "Table Name": "Vendor-Subsidiary Relationship",
+    "Permission Needed": "Lists - Vendors"
+  },
+  {
+    "Table ID": "wbs",
+    "Table Name": "Work Breakdown Structure",
+    "Permission Needed": "Lists - Work Breakdown Structure"
+  },
+  {
+    "Table ID": "website",
+    "Table Name": "Web Site",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "websitefieldset",
+    "Table Name": "Web Site Field Sets",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "websitelanguage",
+    "Table Name": "Site Language",
+    "Permission Needed": "Setup - Set Up Web Site"
+  },
+  {
+    "Table ID": "webapp",
+    "Table Name": "SSP Application",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "workcalendar",
+    "Table Name": "Work Calendar",
+    "Permission Needed": "Lists - Work Calendar"
+  },
+  {
+    "Table ID": "workcalendarholiday",
+    "Table Name": "Holiday Date",
+    "Permission Needed": "Lists - Work Calendar"
+  },
+  {
+    "Table ID": "workflowactionscript",
+    "Table Name": "Workflow Action Script",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "workflowactionscriptdeployment",
+    "Table Name": "Workflow Action Script Deployment",
+    "Permission Needed": "Setup - SuiteScript"
+  },
+  {
+    "Table ID": "workplace",
+    "Table Name": "Workplace",
+    "Permission Needed": "Lists - Workplaces"
+  },
+  {
+    "Table ID": "workplacemainaddress",
+    "Table Name": "Address",
+    "Permission Needed": "Lists - Address"
+  }
+]
