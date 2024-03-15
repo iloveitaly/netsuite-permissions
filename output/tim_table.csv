@@ -1,0 +1,801 @@
+tableName,tableId,permission
+Subsidiaries,accountingbooksubsidiaries,Setup - Accounting Book
+Subsidiary,accountingbooksubsidiarymap,Setup - Accounting Book
+Accounting Context,accountingcontext,Setup - Set Up Company
+Destination,allocationscheduledestination,Transactions - Create Allocation Schedules
+Source,allocationschedulesource,Transactions - Create Allocation Schedules
+Attendees,attendee,Lists - Events
+Billing Operations,billrun,Transactions - Invoice
+Billing Operation Schedules,billrunschedule,Transactions - Invoice
+Billing Account Billing Schedule,billingaccountbillcycle,Lists - Customers
+Billing Rate Card,billingratecard,Setup - Accounting Lists
+Pricing,billingratecardpriceforsearch,Setup - Accounting Lists
+Pricing,billingratecardpricemultiforsearch,Setup - Accounting Lists
+Billing Rate Card Version,billingratecardversion,Setup - Accounting Lists
+Bill of Materials Revision Component,bomrevisioncomponent,Lists - Bill of Materials
+Bill of Materials to Subsidiary Map,bomsubsidiarymap,Lists - Bill of Materials
+Budget Line,budgetsmachine,Transactions - Set Up Budgets
+Bulk Processing Submission Lines,bulkprocsubmissionline,Setup - Set Up Company
+Issues,businesseventsprocessinghistorytransactionmap,Lists - Notes Tab
+Address,companyaddressbookentityaddress,Lists - Address
+Bulk Merge,companybulkmerge,Lists - Mail Merge
+Campaigns,companycampaigns,Lists - Campaign History
+Contacts,companycompanycontact,Lists - Contacts
+Event,calendarevent,Lists - Events
+Charge Rule,chargerule,Transactions - Charge Rule
+Charge Run Status,chargerun,Transactions - Charge
+Competitor,competitor,Lists - Competitors
+Competitor,competitoropportunity,Transactions - Opportunity
+Contact,contact,Lists - Contacts
+Address,contactaddressbookentityaddress,Lists - Address
+Bulk Merge,contactbulkmerge,Lists - Mail Merge
+Contact Category,contactcategory,Setup - CRM Lists
+Campaigns,contactcontactcampaigns,Lists - Campaign History
+Contact,contactcontacttypemap,Lists - Contacts
+Contact Role,contactrole,Lists - Contact Roles
+Contact-Subsidiary Relationship,contactsubsidiaryrelationship,Lists - Contacts
+Countries,countries,Setup - Set Up Company
+Expenses,creditcardchargeexpensemachine,Transactions - Credit Card
+Expenses,creditcardrefundexpensemachine,Transactions - Credit Card Refund
+Templates,crmtemplatecategorycrmtemplate,Lists - Template Categories
+Subsidiaries,crmtemplatecategorysubsidiary,Lists - Template Categories
+Custom,custom,Lists - Custom Record Entries
+Custom List,customlist,Setup - Custom Lists
+Custom Record,customrecordtype,Setup - Custom Record Types
+Custom Segment,customsegment,Setup - Custom Segments
+Custom Transaction,customtransactiontype,Setup - Custom Transaction Types
+Downloads,customerdownload,Lists - Customers
+Customer Segment,customersegment,Setup - Customer Segments Manager
+Customer-Subsidiary Relationship,customersubsidiaryrelationship,Lists - Customers
+Deleted Record,deletedrecord,Setup - Deleted Records
+Driver's License,driverslicense,Lists - Advanced Government-Issued IDs
+Email Template,emailtemplate,Lists - Email Template
+Templates,emailtemplatecategorycrmtemplate,Lists - Template Categories
+Employee Change Reason,employeechangereason,Lists - Employee Change Reason
+Employee Change Request Type,employeechangerequesttype,Lists - Employee Change Request Type
+Expense Report Currencies,employeeexpensereportcurrencies,Lists - Employees
+Employee Status,employeestatus,Setup - Other Lists
+Employee Type,employeetype,Setup - Other Lists
+Address,entityaddress,Lists - Address
+Rates,expensecategoryrate,Lists - Expense Categories
+Translation,expensecategorytranslation,Lists - Expense Categories
+Fax Template,faxtemplate,Lists - Fax Template
+Templates,faxtemplatecategorycrmtemplate,Lists - Template Categories
+File,file,Lists - Documents and Files
+File Access,filehits,Lists - Documents and Files
+GL Audit Numbering Sequence,glnumberingsequence,Setup - Manage Accounting Periods
+Destination,generaldetaildestination,Transactions - Create Allocation Schedules
+Source,generaldetailsource,Transactions - Create Allocation Schedules
+Destination,generalscheduledestination,Transactions - Create Allocation Schedules
+Source,generalschedulesource,Transactions - Create Allocation Schedules
+Custom GL Lines Audit Log - Segments,gllinesauditloglinesegment,Lists - Custom GL Lines Plug-in Audit Log
+Government-Issued ID Type,governmentissuedidtype,Lists - Government-Issued ID Types
+Job,hcmjob,Lists - HCMJob Management
+Inbound Shipment,inboundshipment,Lists - Inbound Shipment
+Allocation Detail,intercompanyallocationscheduleallocationdetail,Transactions - Create Allocation Schedules
+Destination,intercompanyallocationscheduleallocationdetailgeneraldetaildestination,Transactions - Create Allocation Schedules
+Source,intercompanyallocationscheduleallocationdetailgeneraldetailsource,Transactions - Create Allocation Schedules
+,intercompanyallocationscheduleallocationdetailjournalmap,Transactions - Create Allocation Schedules
+Destination,intercompanydestination,Transactions - Create Allocation Schedules
+Source,intercompanysource,Transactions - Create Allocation Schedules
+Invoice Group,invoicegroup,Transactions - Invoice
+Tags,issueissuetagmap,Lists - Issues
+Files,issuemediaitemmap,Lists - Issues
+Issues,issueproductitemmap,Lists - Issues
+Item-Item Collection Relationship,itemcollectionitemsimplemap,Lists - Item Collection
+Packages,itemfulfillmentpackage,Transactions - Item Fulfillment
+FedEx Packages,itemfulfillmentpackagefedex,Transactions - Item Fulfillment
+UPS Packages,itemfulfillmentpackageups,Transactions - Item Fulfillment
+USPS Packages,itemfulfillmentpackageusps,Transactions - Item Fulfillment
+Item Segment,itemsegmentincludingsynthetic,Setup - Customer Segments Manager
+Journal Accounting Line,journalaccountingline,Transactions - Make Journal Entry
+Kudos,kudos,Lists - Kudos
+Template Localization,localizedtemplate,Lists - Marketing Template
+Login Audit Trail,loginaudit,Setup - View Login Audit Trail
+Letter Template,mailtemplate,Lists - Email Template
+Templates,mailtemplatecategorycrmtemplate,Lists - Template Categories
+Document Folder,mediaitemfolder,Lists - Documents and Files
+Memorized Transaction Definition,memdoc,Lists - Memorized Transactions
+Memorized Transaction Accounting Line,memdoctransactiontemplateaccountingline,Transactions - Find Transaction
+Merchandise Hierarchy Level,merchandisehierarchylevel,Setup - Merchandise Hierarchy Level
+Merchandise Hierarchy Node,merchandisehierarchynode,Setup - Merchandise Hierarchy Node
+Hierarchy Versions,merchandisehierarchynodeversion,Setup - Merchandise Hierarchy Node
+Merchandise Hierarchy Version,merchandisehierarchyversion,Setup - Merchandise Hierarchy Version
+Hierarchy Levels,merchandisehierarchyversionlevel,Setup - Merchandise Hierarchy Version
+Message,message,Lists - Track Messages
+News Item,newsitem,Lists - News Items
+Related Transaction Line Link - Next,nexttransactionlinelink,Transactions - Find Transaction
+Nexus,nexus,Lists - Tax Records
+Organizational Value,organizationvalue,Lists - Organizational Value
+Other Government-Issued ID,othergovernmentissuedid,Lists - Advanced Government-Issued IDs
+Partner,partner,Lists - Partners
+Address,partneraddressbookentityaddress,Lists - Address
+Bulk Merge,partnerbulkmerge,Lists - Mail Merge
+Campaigns,partnercampaigns,Lists - Campaign History
+Contacts,partnercompanycontact,Lists - Contacts
+Passport,passport,Lists - Advanced Government-Issued IDs
+PDF Template,pdftemplate,Lists - PDF Template
+Templates,pdftemplatecategorycrmtemplate,Lists - Template Categories
+Accounting Books,perbookperiodclosing,Setup - Accounting Book
+Phone Call,phonecall,Lists - Phone Calls
+Position,position,Lists - Positions
+Related Transaction Line Link - Previous,previoustransactionlinelink,Transactions - Find Transaction
+Job Intercompany Cross Charge Request,projecticchargerequest,Transactions - Project Intercompany Cross Charge Request
+Revenue Recognition Treatment,revenuerecognitiontreatment,Lists - Recognition Treatment
+Custom Subtab,subtab,Setup - Custom Subtabs
+Shipping Item,shipitem,Lists - Shipping Items
+Free Shipping Items,shipitemfreeshippingitem,Lists - Shipping Items
+Handling Rate,shipitemhandlingrate,Lists - Shipping Items
+Shipping Rate,shipitemshippingrate,Lists - Shipping Items
+Translation,shipitemtranslation,Lists - Shipping Items
+Shipping Partner Package,shippingpartnerpackage,Lists - Shipping Partner Package
+Shipping Partner Registration,shippingpartnerregistration,Lists - Shipping Partner Registration
+Shipping Partner Shipment,shippingpartnershipment,Lists - Shipping Partner Shipment
+States,states,Setup - Set Up Company
+Subsidiary Settings Grouping Segment Map,subsidiaryaccountingbookswithpejeenabled,Setup - Subsidiary Settings Manager
+Subsidiary Settings,subsidiarysettings,Setup - Subsidiary Settings Manager
+Subsidiary Settings Grouping Segment Map,subsidiarysettingsgroupingsegmentmap,Setup - Subsidiary Settings Manager
+System Email Template (Scriptable),systememailtemplate,Lists - System Email Template
+Templates,systememailtemplatecategorycrmtemplate,Lists - Template Categories
+Task,task,Lists - Tasks
+Termination Reason,terminationreason,Lists - Termination Reasons
+Time-Off Change,timeoffchange,Lists - Time-Off Administration
+Time-Off Plan,timeoffplan,Lists - Time-Off Administration
+Time-Off Rule,timeoffrule,Lists - Time-Off Administration
+Time-Off Type,timeofftype,Lists - Time-Off Administration
+Topic,topic,Lists - Knowledge Base
+Transaction Accounting Line,transactionaccountingline,Transactions - Find Transaction
+Record Field,umdfield,Setup - Analytics Administrator
+Unlock Time Period,unlockedtimeperiod,Setup - Unlocked Time Period
+User Event Script Deployment,usereventscriptdeployment,Setup - SuiteScript
+Audit Trail,usrauditlog,Setup - Analytics Administrator
+Audit Change,usrauditlogchange,Setup - Analytics Administrator
+Audit Detail,usrauditlogchangedetail,Setup - Analytics Administrator
+Execution Log,usrexecutionlog,Setup - Analytics Administrator
+UsrExecutionLogFields,usrexecutionlogfieldmap,Setup - Analytics Administrator
+Account,account,Lists - Accounts
+Accounting Book,accountingbook,Setup - Accounting Book
+Translation,accountingcontexttranslation,Setup - Set Up Company
+Accounting Period,accountingperiod,Setup - Manage Accounting Periods
+Revenue Management Plug-in,advancedrevrecplugin,Setup - SuiteScript
+Locations,aggregateitemlocation,Lists - Items
+Allocation Detail,allocationdetail,Transactions - Create Allocation Schedules
+,allocationdetailjournalmap,Transactions - Create Allocation Schedules
+Allocation Detail,allocationscheduleallocationdetail,Transactions - Create Allocation Schedules
+Destination,allocationscheduleallocationdetailgeneraldetaildestination,Transactions - Create Allocation Schedules
+Source,allocationscheduleallocationdetailgeneraldetailsource,Transactions - Create Allocation Schedules
+,allocationscheduleallocationdetailjournalmap,Transactions - Create Allocation Schedules
+Amortization Schedule,amortizationschedule,Lists - Amortization Schedules
+Custom Recurrence Pattern,amortizationschedulerecurrence,Lists - Amortization Schedules
+Amortization Template,amortizationtemplate,Lists - Amortization Schedules
+Custom Recurrence Pattern,amortizationtemplaterecurrence,Lists - Amortization Schedules
+As Charged Project Revenue Rule,aschargedprojectrevenuerule,Lists - Project Revenue Rules
+Charge Rules,aschargedprojectrevenueruleprojectrevenuerlchargerl,Lists - Project Revenue Rules
+Correlated Items,assemblyitemcorrelateditem,Lists - Items
+Associated Images,assemblyitemimage,Lists - Items
+Accounting Books,assemblyitemitemaccountingbookdetail,Lists - Items
+Levels,assemblyitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,assemblyitemitemquantitypricinglevel,Lists - Items
+Vendors,assemblyitemitemvendor,Lists - Vendors
+Locations,assemblyitemlocations,Lists - Items
+Components,assemblyitemmember,Lists - Items
+Site Categories,assemblyitemsitecategory,Lists - Items
+ItemSubsidiaries,assemblyitemsubsidiarymap,Lists - Items
+Translation,assemblyitemtranslation,Lists - Items
+URL Component Alias,assemblyitemurlcomponentaliases,Lists - Items
+Bill Of Distribution,billofdistribution,Lists - Bill Of Distribution
+Distribution Source,billofdistributiondistributionsource,Lists - Bill Of Distribution
+Billing Account,billingaccount,Lists - Customers
+Billing Class,billingclass,Setup - Accounting Lists
+Pricing,billingclasspricecost,Setup - Accounting Lists
+Revenue Recognition Event,billingrevenueevent,Lists - Revenue Recognition Plan
+Billing Schedule,billingschedule,Lists - Billing Schedules
+Milestone,billingschedulemilestone,Lists - Billing Schedules
+Custom Recurrence Pattern,billingschedulerecurrence,Lists - Billing Schedules
+Bin,bin,Lists - Bins
+Bill of Materials,bom,Lists - Bill of Materials
+Available For Locations,bomavailablelocationmap,Lists - Bill of Materials
+Available For Subsidiaries,bomavailablesubsidiarymap,Lists - Bill of Materials
+Bill of Materials Revision,bomrevision,Lists - Bill of Materials
+Revisions,bomrevisionbommap,Lists - Bill of Materials
+Bill of Materials Revision Component,bomrevisioncomponentmember,Lists - Bill of Materials
+Budget Exchange Rate,budgetexchangerate,Transactions - Set Up Budgets
+Budget Category,budgetcategory,Setup - Accounting Lists
+Budget,budgets,Transactions - Set Up Budgets
+Budget Line,budgetsmachinenoaccountingperiod,Transactions - Set Up Budgets
+Bulk Processing Errors,bulkprocerror,Setup - Set Up Company
+Bulk Processing Submission,bulkprocsubmission,Setup - Set Up Company
+Bundle Installation Script,bundleinstallationscript,Setup - SuiteScript
+Bundle Installation Script Deployment,bundleinstallationscriptdeployment,Setup - SuiteScript
+Resources,calendareventresourcemap,Lists - Resource
+Campaign Audience,campaignaudience,Setup - Setup Campaigns
+Campaign Category,campaigncategory,Setup - Setup Campaigns
+Campaign Channel,campaignchannel,Setup - Setup Campaigns
+Campaign Email Address,campaignemailaddress,Setup - Set Up Campaign Email Addresses
+Campaign Family,campaignfamily,Setup - Setup Campaigns
+Campaign Offer,campaignoffer,Setup - Setup Campaigns
+Campaign Response,campaignresponse,Lists - Campaign History
+Response History,campaignresponsehistoryentry,Lists - Campaign History
+Campaign Search Engine,campaignsearchengine,Setup - Setup Campaigns
+Campaign Subscription,campaignsubscription,Setup - Setup Campaigns
+Campaign Email Template,campaigntemplate,Lists - Marketing Template
+Templates,campaigntemplatecategorycrmtemplate,Lists - Template Categories
+Campaign Vertical,campaignvertical,Setup - Setup Campaigns
+Address,cashrefundbillingaddress,Lists - Address
+Address,cashrefundshippingaddress,Lists - Address
+Address,cashsalebillingaddress,Lists - Address
+Address,cashsaleitemshippingaddress,Lists - Address
+Address,cashsaleshippingaddress,Lists - Address
+Charge,charge,Transactions - Charge
+Charge Type,chargetype,Setup - Accounting Lists
+Translation,chargetypetranslations,Setup - Accounting Lists
+Expenses,checkexpensemachine,Transactions - Check
+Address,checkpayeeaddress,Lists - Address
+Class,classification,Lists - Classes
+Account Mapping,classificationsubsidiarymap,Lists - Subsidiaries
+Client Script,clientscript,Setup - SuiteScript
+Client Script Deployment,clientscriptdeployment,Setup - SuiteScript
+CMS Content,cmscontent,Setup - Web Site Management
+CMS Content Type,cmscontenttype,Setup - Web Site Management
+CMS Content Type Site Mapping,cmscontenttypesitemapping,Setup - Web Site Management
+CMS Page,cmspage,Setup - Web Site Management
+Commerce Catalog,commercecatalog,Setup - Commerce Categories
+Consolidated Exchange Rate,consolidatedexchangerate,Lists - Currency
+Consolidated Rate Adjustor Plugin,consolidatedrateadjustorplugin,Setup - SuiteScript
+Cost Category,costcategory,Setup - Accounting Lists
+Coupon Code,couponcode,Lists - Promotion
+Address,creditmemobillingaddress,Lists - Address
+Address,creditmemoitemshippingaddress,Lists - Address
+Address,creditmemoshippingaddress,Lists - Address
+Currency,currency,Lists - Currency
+Exchange Rate,currencyrate,Lists - Currency
+Custom GL Plugin,customglplugin,Setup - SuiteScript
+Installments,custominstallmentpercent,Setup - Accounting Lists
+Customer,customer,Lists - Customers
+Address,customeraddressbookentityaddress,Lists - Address
+Bulk Merge,customerbulkmerge,Lists - Mail Merge
+Campaigns,customercampaigns,Lists - Campaign History
+Customer Category,customercategory,Setup - Accounting Lists
+Contacts,customercompanycontact,Lists - Contacts
+Currencies,customercurrencybalance,Lists - Customers
+EFT,customereftacct,Lists - Customers
+Group Pricing,customergrouppricing,Lists - Customers
+Item Pricing,customeritempricing,Lists - Customers
+Customer Message,customermessage,Setup - Accounting Lists
+Partners,customerpartner,Lists - Customers
+Customer/Project,customerproject,Lists - Customers
+Address,customerrefundpayeeaddress,Lists - Address
+Date Scheduled - Amount,datesfixedamount,Lists - Project Revenue Rules
+Date Scheduled - Percent From Total,datespctfromtotal,Lists - Project Revenue Rules
+Department,department,Lists - Departments
+Department,departmentsubsidiarymap,Lists - Subsidiaries
+ItemSubsidiaries,descriptionitemsubsidiarymap,Lists - Items
+Translation,descriptionitemtranslation,Lists - Items
+Device ID,deviceid,Setup - Device ID Management
+ItemSubsidiaries,discountitemsubsidiarymap,Lists - Items
+Translation,discountitemtranslation,Lists - Items
+Distribution Category,distributioncategory,Setup - Accounting Lists
+Distribution Network,distributionnetwork,Lists - Distribution Network
+Distribution Category,distributionnetworkdistributioncategory,Lists - Distribution Network
+Distribution Network Subsidary Map,distributionnetworksubsidiary,Lists - Distribution Network
+Domain,domain,Setup - Set Up Domains
+Correlated Items,downloaditemcorrelateditem,Lists - Items
+Associated Images,downloaditemimage,Lists - Items
+Accounting Books,downloaditemitemaccountingbookdetail,Lists - Items
+Levels,downloaditemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,downloaditemitemquantitypricinglevel,Lists - Items
+Site Categories,downloaditemsitecategory,Lists - Items
+ItemSubsidiaries,downloaditemsubsidiarymap,Lists - Items
+Translation,downloaditemtranslation,Lists - Items
+URL Component Alias,downloaditemurlcomponentaliases,Lists - Items
+Email Capture Plugin,emailcaptureplugin,Setup - SuiteScript
+Employee,employee,Lists - Employee Record
+Accrued Time,employeeaccruedtime,Lists - Employees
+Address,employeeaddressbookentityaddress,Lists - Address
+Bulk Merge,employeebulkmerge,Lists - Mail Merge
+Campaigns,employeecampaigns,Lists - Campaign History
+Company Contributions,employeecompanycontribution,Lists - Employees
+Deductions,employeededuction,Lists - Employees
+Earnings,employeeearning,Lists - Employees
+Emergency Contacts,employeeemergencycontact,Lists - Employees
+Permissions,employeeempperms,Lists - Employees
+Positions,employeehcmposition,Lists - Employees
+Education,employeehreducation,Lists - Employees
+Employee Directory,employeelist,Setup - Publish Employee List
+URL Component Alias,employeelistsitecategoryurlcomponentalias,Setup - Set Up Web Site
+Rates,employeerate,Lists - Employees
+Employee-Subsidiary Relationship,employeesubsidiaryrelationship,Lists - Employee Record
+Taxes,employeetaxoptions,Lists - Employees
+Entity,entity,Lists - Perform Search
+Entity Account Mapping,entityaccountmapping,Setup - Entity Account Mapping
+Bulk Merge,entitybulkmerge,Lists - Mail Merge
+Group,entitygroup,Lists - CRM Groups
+Campaigns,entitygroupcampaigns,Lists - Campaign History
+Rates,entityrate,Lists - Perform Search
+Entity-Subsidiary Relationship,entitysubsidiaryrelationship,Lists - Perform Search
+Address,estimatebillingaddress,Lists - Address
+Address,estimateitemshippingaddress,Lists - Address
+Address,estimateshippingaddress,Lists - Address
+Expense Amortization Event,expenseamortizationevent,Lists - Expense Amortization Plan
+Expense Amortization Rule,expenseamortizationrule,Lists - Expense Amortization Rule
+Expense Category,expensecategory,Lists - Expense Categories
+ItemSubsidiaries,expenseitemsubsidiarymap,Lists - Items
+Translation,expenseitemtranslation,Lists - Items
+Expenses,expensemachine,Transactions - Expense Report
+Expense Amortization Plan,expenseplan,Lists - Expense Amortization Plan
+Planned Expense,expenseplanplannedexpense,Lists - Expense Amortization Plan
+Recurrence,expenserulecustomline,Lists - Expense Amortization Rule
+Fair Value Dimension,fairvaluedimension,Lists - Fair Value Dimension
+Fair Value Formula,fairvalueformula,Lists - Fair Value Formula
+Fair Value Price,fairvalueprice,Lists - Fair Value Price
+Fiscal Calendar,fiscalcalendar,Setup - Manage Accounting Periods
+Fixed Amount Project Revenue Rule,fixedamountprojectrevenuerule,Lists - Project Revenue Rules
+Charge Rules,fixedamountprojectrevenueruleprojectrevenuerlchargerl,Lists - Project Revenue Rules
+Forecast,forecast,Transactions - Edit Forecast
+Fulfillment Exception Reason,fulfillmentexceptionreason,Setup - Fulfillment Exception Reason
+Fulfillment Request,fulfillmentrequest,Transactions - Fulfillment Request
+Fulfillment Exceptions,fulfillmentrequestexception,Transactions - Fulfillment Request
+Items,fulfillmentrequestitem,Transactions - Fulfillment Request
+Fulfillment Exceptions,fulfillmentrequestitemexception,Transactions - Fulfillment Request
+Payment Gateway Asynchronous Notifications,gatewaynotification,Transactions - View Gateway Asynchronous Notifications
+Allocation Schedule,generalallocationschedule,Transactions - Create Allocation Schedules
+Journal Entry Created,generalallocationschedulejournalcreatedbyallocation,Transactions - Create Allocation Schedules
+General Token,generaltoken,Lists - General Token
+Item,generalizeditem,Lists - Items
+Generic Resource,genericresource,Lists - Generic Resources
+Generic Resource-Subsidiary Relationship,genericresourcesubsidiaryrelationship,Lists - Generic Resources
+Correlated Items,giftcertificateitemcorrelateditem,Lists - Items
+Associated Images,giftcertificateitemimage,Lists - Items
+Site Categories,giftcertificateitemsitecategory,Lists - Items
+ItemSubsidiaries,giftcertificateitemsubsidiarymap,Lists - Items
+Translation,giftcertificateitemtranslation,Lists - Items
+URL Component Alias,giftcertificateitemurlcomponentaliases,Lists - Items
+Custom GL Lines Audit Log,gllinesauditlog,Lists - Custom GL Lines Plug-in Audit Log
+Custom GL Audit Log Line,gllinesauditlogline,Lists - Custom GL Lines Plug-in Audit Log
+Custom GL Lines Plug-in Revisions,gllinespluginrevision,Lists - Custom GL Lines Plug-in Audit Log
+Global Account Mapping,globalaccountmapping,Setup - Global Account Mapping
+Global Inventory Relationship,globalinventoryrelationship,Lists - Global Inventory Relationship
+Login Restrictions,iprestrictions,Setup - View Login Audit Trail
+Incoterm,incoterm,Setup - Accounting Lists
+Inventory Cost Template,inventorycosttemplate,Lists - Inventory Cost Template
+Cost Detail,inventorycosttemplatecostdetail,Lists - Inventory Cost Template
+Correlated Items,inventoryitemcorrelateditem,Lists - Items
+Associated Images,inventoryitemimage,Lists - Items
+Accounting Books,inventoryitemitemaccountingbookdetail,Lists - Items
+Levels,inventoryitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,inventoryitemitemquantitypricinglevel,Lists - Items
+Vendors,inventoryitemitemvendor,Lists - Vendors
+Locations,inventoryitemlocations,Lists - Items
+Site Categories,inventoryitemsitecategory,Lists - Items
+ItemSubsidiaries,inventoryitemsubsidiarymap,Lists - Items
+Translation,inventoryitemtranslation,Lists - Items
+URL Component Alias,inventoryitemurlcomponentaliases,Lists - Items
+Serial/Lot Number,inventorynumber,Lists - Items
+Inventory Status,inventorystatus,Lists - Inventory Status
+Address,invoicebillingaddress,Lists - Address
+Address,invoiceitemshippingaddress,Lists - Address
+Address,invoiceshippingaddress,Lists - Address
+Item Pricing,invtitempricehistory,Lists - Items
+Issue,issue,Lists - Issues
+Cases,issueissuecasemap,Lists - Issues
+Product Modules,issuemodule,Setup - Issue Setup
+Build,issueproductbuild,Setup - Issue Setup
+Product Version,issueproductversion,Setup - Issue Setup
+Related Issue,issuerelationship,Lists - Issues
+Issue version broken in,issueversionbrokenmap,Lists - Issues
+Issue version fixed in,issueversionfixedmap,Lists - Issues
+Issue version target,issueversiontargetmap,Lists - Issues
+Item,item,Lists - Items
+Item Account Mapping,itemaccountmapping,Setup - Item Account Mapping
+Accounting Books,itemaccountingbookdetail,Lists - Items
+ItemSubsidiaries,itembasesubsidiarymap,Lists - Items
+Bin Numbers,itembinquantity,Lists - Items
+Item Collection,itemcollection,Lists - Item Collection
+Correlated Items,itemcorrelateditem,Lists - Items
+Item Demand Plan,itemdemandplan,Lists - Item Demand Plan
+Demand,itemdemandplandemandplandetail,Lists - Item Demand Plan
+Address,itemfulfillmentreturnaddress,Lists - Address
+Address,itemfulfillmentshippingaddress,Lists - Address
+Members,itemgroupmember,Lists - Items
+ItemSubsidiaries,itemgroupsubsidiarymap,Lists - Items
+Translation,itemgrouptranslation,Lists - Items
+Associated Images,itemimage,Lists - Items
+Item Location Configuration,itemlocationconfiguration,Lists - Items
+Members,itemmember,Lists - Items
+Levels,itemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,itemquantitypricinglevel,Lists - Items
+Item Revenue Category,itemrevenuecategory,Lists - Item Revenue Category
+Item Revision,itemrevision,Lists - Item Revisions
+Site Categories,itemsitecategory,Lists - Items
+ItemSubsidiaries,itemsubsidiarymap,Lists - Items
+Item Supply Plan,itemsupplyplan,Lists - Item Supply Plan
+Orders,itemsupplyplanorder,Lists - Item Supply Plan
+Planning Message,itemsupplyplanplanningmessage,Lists - Item Supply Plan
+Translation,itemtranslation,Lists - Items
+URL Component Alias,itemurlcomponentaliases,Lists - Items
+Vendors,itemvendor,Lists - Vendors
+Job,job,Lists - Jobs
+Address,jobaddressbookentityaddress,Lists - Address
+Bulk Merge,jobbulkmerge,Lists - Mail Merge
+Contacts,jobcompanycontact,Lists - Contacts
+Job Requisition,jobrequisition,Lists - HCMJob Requisitions
+Job Resource Role,jobresourcerole,Setup - Other Lists
+Job Status,jobstatus,Setup - Accounting Lists
+Job Type,jobtype,Setup - Accounting Lists
+Correlated Items,kititemcorrelateditem,Lists - Items
+Associated Images,kititemimage,Lists - Items
+Accounting Books,kititemitemaccountingbookdetail,Lists - Items
+Levels,kititemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,kititemitemquantitypricinglevel,Lists - Items
+Members,kititemmember,Lists - Items
+Site Categories,kititemsitecategory,Lists - Items
+ItemSubsidiaries,kititemsubsidiarymap,Lists - Items
+Translation,kititemtranslation,Lists - Items
+URL Component Alias,kititemurlcomponentaliases,Lists - Items
+Knowledge Base,knowledgebase,Setup - Publish Knowledge Base
+Kudos,kudosorganizationvaluemap,Lists - Kudos
+Kudos,kudosrecipientmap,Lists - Kudos
+Labor Based Project Revenue Rule,laborbasedprojectrevenuerule,Lists - Project Revenue Rules
+Charge Rules,laborbasedprojectrevenueruleprojectrevenuerlchargerl,Lists - Project Revenue Rules
+Lead Source,leadsource,Setup - CRM Lists
+Location,location,Lists - Locations
+Location Type,locationassignmentruleloctypemap,Setup - Set Up Company
+Limited Locations,locationassignmentrulelocationmap,Setup - Set Up Company
+Allowed Subsidiaries,locationassignmentrulesubsidiarymap,Setup - Set Up Company
+Location Costing Group,locationcostinggroup,Setup - Location Costing Group
+Location,locationcostinggrouplocation,Setup - Location Costing Group
+Address,locationmainaddress,Lists - Address
+Address,locationreturnaddress,Lists - Address
+Location Subsidiary Map,locationsubsidiarymap,Lists - Subsidiaries
+Manufacturing Component,manufacturingcomponent,Transactions - Find Transaction
+Manufacturing Cost Template,manufacturingcosttemplate,Lists - Manufacturing Cost Template
+Cost Detail,manufacturingcosttemplatecostdetail,Lists - Manufacturing Cost Template
+Manufacturing Operation Task,manufacturingoperationtask,Transactions - Work Order
+Cost Detail,manufacturingoperationtaskcostdetail,Transactions - Work Order
+Predecessors,manufacturingoperationtaskpredecessor,Transactions - Work Order
+Manufacturing Routing,manufacturingrouting,Lists - Manufacturing Routing
+Component Per Operation,manufacturingroutingcomponent,Lists - Manufacturing Routing
+,manufacturingroutinglocationmap,Lists - Manufacturing Routing
+Routing Steps,manufacturingroutingroutingstep,Lists - Manufacturing Routing
+Manufacturing Transaction,manufacturingtransaction,Transactions - Find Transaction
+Map/Reduce Script,mapreducescript,Setup - SuiteScript
+Map/Reduce Script Deployment,mapreducescriptdeployment,Setup - SuiteScript
+ItemSubsidiaries,markupitemsubsidiarymap,Lists - Items
+Translation,markupitemtranslation,Lists - Items
+Massupdate Script,massupdatescript,Setup - SuiteScript
+Massupdate Script Deployment,massupdatescriptdeployment,Setup - SuiteScript
+Memorized Transaction Template,memdoctransactiontemplate,Lists - Memorized Transactions
+Transaction Line,memdoctransactiontemplateline,Lists - Memorized Transactions
+Manufacturing Planned Time,mfgplannedtime,Transactions - Work Order
+Correlated Items,noninventoryitemcorrelateditem,Lists - Items
+Associated Images,noninventoryitemimage,Lists - Items
+Accounting Books,noninventoryitemitemaccountingbookdetail,Lists - Items
+Levels,noninventoryitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,noninventoryitemitemquantitypricinglevel,Lists - Items
+Vendors,noninventoryitemitemvendor,Lists - Vendors
+Site Categories,noninventoryitemsitecategory,Lists - Items
+ItemSubsidiaries,noninventoryitemsubsidiarymap,Lists - Items
+Translation,noninventoryitemtranslation,Lists - Items
+URL Component Alias,noninventoryitemurlcomponentaliases,Lists - Items
+Accounting Books,noninventorypurchaseitemitemaccountingbookdetail,Lists - Items
+Vendors,noninventorypurchaseitemitemvendor,Lists - Vendors
+ItemSubsidiaries,noninventorypurchaseitemsubsidiarymap,Lists - Items
+Translation,noninventorypurchaseitemtranslation,Lists - Items
+Correlated Items,noninventoryresaleitemcorrelateditem,Lists - Items
+Associated Images,noninventoryresaleitemimage,Lists - Items
+Accounting Books,noninventoryresaleitemitemaccountingbookdetail,Lists - Items
+Levels,noninventoryresaleitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,noninventoryresaleitemitemquantitypricinglevel,Lists - Items
+Vendors,noninventoryresaleitemitemvendor,Lists - Vendors
+Site Categories,noninventoryresaleitemsitecategory,Lists - Items
+ItemSubsidiaries,noninventoryresaleitemsubsidiarymap,Lists - Items
+Translation,noninventoryresaleitemtranslation,Lists - Items
+URL Component Alias,noninventoryresaleitemurlcomponentaliases,Lists - Items
+Correlated Items,noninventorysaleitemcorrelateditem,Lists - Items
+Associated Images,noninventorysaleitemimage,Lists - Items
+Accounting Books,noninventorysaleitemitemaccountingbookdetail,Lists - Items
+Levels,noninventorysaleitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,noninventorysaleitemitemquantitypricinglevel,Lists - Items
+Site Categories,noninventorysaleitemsitecategory,Lists - Items
+ItemSubsidiaries,noninventorysaleitemsubsidiarymap,Lists - Items
+Translation,noninventorysaleitemtranslation,Lists - Items
+URL Component Alias,noninventorysaleitemurlcomponentaliases,Lists - Items
+Note,note,Lists - Notes Tab
+Access Token,oauthtoken,Setup - Access Token Management
+Online Case Form,onlinecaseform,Setup - Online Case Form
+Online Form Template,onlineformtemplate,Lists - Marketing Template
+Templates,onlineformtemplatecategorycrmtemplate,Lists - Template Categories
+Online Lead Form,onlineleadform,Setup - Online Customer Form
+Address,opportunitybillingaddress,Lists - Address
+Address,opportunityshippingaddress,Lists - Address
+Order Allocation Strategy,orderallocationstrategy,Setup - Order Allocation Strategy
+Accounting Books,otherchargeitemitemaccountingbookdetail,Lists - Items
+Levels,otherchargeitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,otherchargeitemitemquantitypricinglevel,Lists - Items
+Vendors,otherchargeitemitemvendor,Lists - Vendors
+ItemSubsidiaries,otherchargeitemsubsidiarymap,Lists - Items
+Translation,otherchargeitemtranslation,Lists - Items
+Accounting Books,otherchargepurchaseitemitemaccountingbookdetail,Lists - Items
+Vendors,otherchargepurchaseitemitemvendor,Lists - Vendors
+ItemSubsidiaries,otherchargepurchaseitemsubsidiarymap,Lists - Items
+Translation,otherchargepurchaseitemtranslation,Lists - Items
+Accounting Books,otherchargeresaleitemitemaccountingbookdetail,Lists - Items
+Levels,otherchargeresaleitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,otherchargeresaleitemitemquantitypricinglevel,Lists - Items
+Vendors,otherchargeresaleitemitemvendor,Lists - Vendors
+ItemSubsidiaries,otherchargeresaleitemsubsidiarymap,Lists - Items
+Translation,otherchargeresaleitemtranslation,Lists - Items
+Accounting Books,otherchargesaleitemitemaccountingbookdetail,Lists - Items
+Levels,otherchargesaleitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,otherchargesaleitemitemquantitypricinglevel,Lists - Items
+ItemSubsidiaries,otherchargesaleitemsubsidiarymap,Lists - Items
+Translation,otherchargesaleitemtranslation,Lists - Items
+Other Name,othername,Lists - Other Names
+Address,othernameaddressbookentityaddress,Lists - Address
+Bulk Merge,othernamebulkmerge,Lists - Mail Merge
+Campaigns,othernamecampaigns,Lists - Campaign History
+Other Name Category,othernamecategory,Setup - Accounting Lists
+Contacts,othernamecompanycontact,Lists - Contacts
+Other Name-Subsidiary Relationship,othernamesubsidiaryrelationship,Lists - Other Names
+Outbound Requests,outboundrequest,Lists - Outbound Request
+Partner-Subsidiary Relationship,partnersubsidiaryrelationship,Lists - Partners
+Paycheck,paycheck,Transactions - Individual Paycheck
+Commissions,paycheckpaycommissions,Transactions - Individual Paycheck
+Contributions,paycheckpaycontributions,Transactions - Individual Paycheck
+Deductions,paycheckpaydeductions,Transactions - Individual Paycheck
+Earnings,paycheckpayearnings,Transactions - Individual Paycheck
+Expenses,paycheckpayexpenses,Transactions - Individual Paycheck
+PTO Hours,paycheckpaypto,Transactions - Individual Paycheck
+Taxes,paycheckpaytax,Transactions - Individual Paycheck
+Time,paycheckpaytime,Transactions - Individual Paycheck
+Summary,paychecksummary,Transactions - Individual Paycheck
+Payment Card,paymentcardsearchrecord,Lists - Payment Card
+Payment Card Token,paymentcardtoken,Lists - Payment Card Token
+Payment Event,paymentevent,Transactions - View Payment Events
+Payment Gateway Plugin,paymentgatewayplugin,Setup - SuiteScript
+Payment Instrument,paymentinstrument,Lists - Payment Instruments
+ItemSubsidiaries,paymentitemsubsidiarymap,Lists - Items
+Translation,paymentitemtranslation,Lists - Items
+Payment Method,paymentmethod,Setup - Accounting Lists
+Payment Visuals,paymentmethodvisual,Setup - Accounting Lists
+Payment processing profile,paymentprocessingprofile,Setup - Credit Card Processing
+Payroll Batch,payrollbatch,Transactions - Process Payroll
+Payroll Item,payrollitem,Lists - Payroll Items
+Percent Complete Project Revenue Rule,pctcompleteprojectrevenuerule,Lists - Project Revenue Rules
+Planned Standard Cost,plannedstandardcost,Lists - Planned Standard Cost
+Cost Components,plannedstandardcostcomponents,Lists - Planned Standard Cost
+Platform Extension Plug-in,platformextensionplugin,Setup - SuiteScript
+Custom Plug-In Type,plugintype,Setup - SuiteScript
+Custom Plug-in Implementation,plugintypeimpl,Setup - SuiteScript
+Portlet,portlet,Setup - SuiteScript
+Portlet Deployment,portletdeployment,Setup - SuiteScript
+Reporting Relationships,positionreportstomachine,Lists - Positions
+Price Book,pricebook,Lists - Subscription Plan
+Price Level,pricelevel,Setup - Accounting Lists
+Price Plan,priceplan,Lists - Subscription Plan
+Price Plan Price Tiers,pricetiers,Lists - Subscription Plan
+Pricing,pricing,Lists - Items
+Pricing Group,pricinggroup,Setup - Accounting Lists
+Billing Budget,projectbillingbudget,Lists - Jobs
+Project Budget,projectbudget,Lists - Project Budget
+Cost Budget,projectcostbudget,Lists - Jobs
+Project Expense Type,projectexpensetype,Setup - Accounting Lists
+Translation,projectexpensetypetranslation,Setup - Accounting Lists
+Charge Rules,projectrevenuerlchargerl,Lists - Project Revenue Rules
+Charge Rules,projectrevenueruleprojectrevenuerlchargerl,Lists - Project Revenue Rules
+Job-Subsidiary Relationship,projectsubsidiaryrelationship,Lists - Jobs
+Project Task,projecttask,Lists - Project Tasks
+Resources,projecttaskassignee,Lists - Project Tasks
+Billing Budget,projecttaskbillingbudget,Lists - Project Tasks
+Cost Budget,projecttaskcostbudget,Lists - Project Tasks
+Predecessors,projecttaskpredecessor,Lists - Project Tasks
+Project Template,projecttemplate,Lists - Project Templates
+Resources,projecttemplatejobresource,Lists - Project Templates
+Project Template-Subsidiary Relationship,projecttemplatesubsidiaryrelationship,Lists - Project Templates
+Promotion,promotioncode,Lists - Promotion
+Campaigns,promotioncodecampaigns,Lists - Campaign History
+Coupon Codes,promotioncodecouponinstances,Lists - Promotion
+Minimum Order Amount,promotioncodecurrency,Lists - Promotion
+Items,promotioncodediscounteditems,Lists - Promotion
+Items,promotioncodeitems,Lists - Promotion
+Partners,promotioncodepartnermap,Lists - Promotion
+Website,promotioncodewebsitemap,Lists - Promotion
+Location,promotioncodelocationmap,Lists - Promotion
+Promotions Plugin,promotionsplugin,Setup - SuiteScript
+Published Saved Search,publishedsavedsearch,Lists - Presentation Categories
+URL Component Alias,publishedsavedsearchsitecategoryurlcomponentalias,Setup - Set Up Web Site
+Discount,purchasecontractdiscount,Transactions - Purchase Contract
+Address,purchaseorderbillingaddress,Lists - Address
+Expenses,purchaseorderexpensemachine,Transactions - Purchase Order
+Address,purchaseordershippingaddress,Lists - Address
+Expenses,purchaserequisitionexpensemachine,Transactions - Requisition
+PurchOrd <-> PurchReq Map,purchaserequisitionexpensepurchaseorderexpensemap,Transactions - Requisition
+Quantity Pricing Schedule,quantitypricingschedule,Lists - Quantity pricing Schedules
+Quantity Price,quantitypricingscheduleleveledit,Lists - Quantity pricing Schedules
+Quantity Price Structure,quantitypricingschedulelevelspreadsheet,Lists - Quantity pricing Schedules
+Quota,quota,Transactions - Establish Quotas
+Custom Recognition Event Type,ratableeventtype,Lists - Revenue Recognition Rule
+Web Site Redirect,redirect,Setup - Set Up Web Site
+Discount,requestforquotediscount,Transactions - Request For Quote
+Resource Allocation,resourceallocation,Lists - Resource Allocations
+Resource Group,resourcegroup,Lists - Resource Groups
+Resources,resourcegroupmembers,Lists - Resource Groups
+Resources,resourcerateoverride,Lists - Project Revenue Rules
+Restlet,restlet,Setup - SuiteScript
+Restlet Deployment,restletdeployment,Setup - SuiteScript
+Address,returnauthorizationbillingaddress,Lists - Address
+Address,returnauthorizationshippingaddress,Lists - Address
+Recurrence,revrecrulecustomline,Lists - Revenue Recognition Rule
+Revenue Recognition Schedule,revrecschedule,Lists - Revenue Recognition Schedules
+Custom Recurrence Pattern,revrecschedulerecurrence,Lists - Revenue Recognition Schedules
+Revenue Recognition Template,revrectemplate,Lists - Revenue Recognition Schedules
+Custom Recurrence Pattern,revrectemplaterecurrence,Lists - Revenue Recognition Schedules
+Revenue Allocation Group,revenueallocationgroup,Setup - Accounting Lists
+Address,revenuecommitmentbillingaddress,Lists - Address
+Address,revenuecommitmentreversalbillingaddress,Lists - Address
+Address,revenuecommitmentreversalshippingaddress,Lists - Address
+Address,revenuecommitmentshippingaddress,Lists - Address
+Revenue Element,revenueelement,Lists - Revenue Element
+Revenue Recognition Plan,revenueplan,Lists - Revenue Recognition Plan
+Cost Amortization,revenueplanplannedcost,Lists - Revenue Recognition Plan
+Planned Revenue,revenueplanplannedrevenue,Lists - Revenue Recognition Plan
+Revenue Recognition Rule,revenuerecognitionrule,Lists - Revenue Recognition Rule
+Role,role,Setup - Bulk Manage Roles
+Permissions,rolepermissions,Setup - Bulk Manage Roles
+Restrictions,rolerestrictions,Setup - Bulk Manage Roles
+Address,salesorderbillingaddress,Lists - Address
+Address,salesorderitemshippingaddress,Lists - Address
+Address,salesordershippingaddress,Lists - Address
+Tax Code,salestaxitem,Lists - Tax Records
+Lead Assignment,salesterritoryentity,Setup - Sales Territory
+Scheduled Script,scheduledscript,Setup - SuiteScript
+Scheduled Script Deployment,scheduledscriptdeployment,Setup - SuiteScript
+Scheduled Script Instance,scheduledscriptinstance,Setup - SuiteScript
+Script,script,Setup - SuiteScript
+Script Deployment,scriptdeployment,Setup - SuiteScript
+Server Script Log,scriptnote,Setup - SuiteScript
+Sent Email,sentemail,Lists - Sent Emails
+,sentemailrecipient,Lists - Sent Emails
+Correlated Items,serviceitemcorrelateditem,Lists - Items
+Associated Images,serviceitemimage,Lists - Items
+Accounting Books,serviceitemitemaccountingbookdetail,Lists - Items
+Levels,serviceitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,serviceitemitemquantitypricinglevel,Lists - Items
+Vendors,serviceitemitemvendor,Lists - Vendors
+Site Categories,serviceitemsitecategory,Lists - Items
+ItemSubsidiaries,serviceitemsubsidiarymap,Lists - Items
+Translation,serviceitemtranslation,Lists - Items
+URL Component Alias,serviceitemurlcomponentaliases,Lists - Items
+Accounting Books,servicepurchaseitemitemaccountingbookdetail,Lists - Items
+Vendors,servicepurchaseitemitemvendor,Lists - Vendors
+ItemSubsidiaries,servicepurchaseitemsubsidiarymap,Lists - Items
+Translation,servicepurchaseitemtranslation,Lists - Items
+Correlated Items,serviceresaleitemcorrelateditem,Lists - Items
+Associated Images,serviceresaleitemimage,Lists - Items
+Accounting Books,serviceresaleitemitemaccountingbookdetail,Lists - Items
+Levels,serviceresaleitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,serviceresaleitemitemquantitypricinglevel,Lists - Items
+Vendors,serviceresaleitemitemvendor,Lists - Vendors
+Site Categories,serviceresaleitemsitecategory,Lists - Items
+ItemSubsidiaries,serviceresaleitemsubsidiarymap,Lists - Items
+Translation,serviceresaleitemtranslation,Lists - Items
+URL Component Alias,serviceresaleitemurlcomponentaliases,Lists - Items
+Correlated Items,servicesaleitemcorrelateditem,Lists - Items
+Associated Images,servicesaleitemimage,Lists - Items
+Accounting Books,servicesaleitemitemaccountingbookdetail,Lists - Items
+Levels,servicesaleitemitemquantitypricingdiscount,Lists - Quantity pricing Schedules
+Levels,servicesaleitemitemquantitypricinglevel,Lists - Items
+Site Categories,servicesaleitemsitecategory,Lists - Items
+ItemSubsidiaries,servicesaleitemsubsidiarymap,Lists - Items
+Translation,servicesaleitemtranslation,Lists - Items
+URL Component Alias,servicesaleitemurlcomponentaliases,Lists - Items
+Shipping Items,shippingmethodrulerelation,Lists - Shipping Items
+Shipping Partners Plugin,shippingpartnersplugin,Setup - SuiteScript
+Site Cart Columns,sitecartcolumns,Setup - Set Up Web Site
+URL Component Alias,sitecategoryurlcomponentalias,Setup - Set Up Web Site
+Site Currency,sitecurrency,Setup - Set Up Web Site
+Touch Points,siteentrypoint,Setup - Set Up Web Site
+Site Section,sitesection,Setup - Set Up Web Site
+Solution,solution,Lists - Knowledge Base
+Standard Cost Version,standardcostversion,Lists - Standard Cost Version
+Standard Cost Vesion to Location Map,standardcostversionlocationmap,Lists - Standard Cost Version
+Statistical Journal,statisticaljournalentry,Transactions - Make Journal Entry
+Statistical Schedule,statisticalschedule,Transactions - Make Journal Entry
+Store Pickup Fulfillment,storepickupfulfillment,Transactions - Store Pickup Fulfillment
+Items,storepickupfulfillmentitem,Transactions - Store Pickup Fulfillment
+Web Site Tab,storetab,Lists - Store Tabs
+URL Component Alias,storetaburlcomponentalias,Setup - Set Up Web Site
+Custom Sublist,sublist,Setup - Custom Sublist
+Subscription,subscription,Lists - Subscriptions
+Subscription Change Order,subscriptionchangeorder,Lists - Subscriptions
+Subscription Line,subscriptionline,Lists - Subscriptions
+Subscription Plan,subscriptionplan,Lists - Subscription Plan
+Members,subscriptionplanmember,Lists - Subscription Plan
+ItemSubsidiaries,subscriptionplansubsidiarymap,Lists - Items
+Subscription Renewal History,subscriptionrenewalhistory,Lists - Subscriptions
+Subscription Term,subscriptionterm,Setup - Accounting Lists
+Subsidiary,subsidiary,Lists - Subsidiaries
+Address,subsidiarymainaddress,Lists - Address
+Subsidiary Period End Journal Grouping Segment Map,subsidiaryperiodendjournalgroupingsegmentmap,Lists - Subsidiaries
+Address,subsidiaryreturnaddress,Lists - Address
+Address,subsidiaryshippingaddress,Lists - Address
+Tax Registrations,subsidiarytaxregistration,Lists - Subsidiaries
+ItemSubsidiaries,subtotalitemsubsidiarymap,Lists - Items
+Translation,subtotalitemtranslation,Lists - Items
+Suitelet,suitelet,Setup - SuiteScript
+Suitelet Deployment,suiteletdeployment,Setup - SuiteScript
+Supply Chain Snapshot,supplychainsnapshot,Lists - Supply Chain Snapshot List
+Supply Chain Snapshot Details,supplychainsnapshotdetails,Lists - Supply Chain Snapshot List
+Supply Chain Snapshot Simulation,supplychainsnapshotsimulation,Lists - Supply Chain Snapshot List
+Case,supportcase,Lists - Cases
+History,supportcaseescalatehist,Lists - Cases
+Escalate To,supportcaseescalatetomap,Lists - Cases
+Issues,supportcaseissuemap,Lists - Issues
+Files,supportcasemediaitemmap,Lists - Cases
+Solutions,supportcasesolutionmap,Lists - Cases
+Tag,tag,Lists - Website (External) publisher
+Task Item Status,taskitemstatus,Setup - Manage Accounting Periods
+Task Complete - Amount,tasksfixedamount,Lists - Project Revenue Rules
+Task Complete - Percent From Total,taskspctfromtotal,Lists - Project Revenue Rules
+Tax Calculation Plugin,taxcalculationplugin,Setup - SuiteScript
+Tax Item,taxitemtaxgroup,Lists - Tax Records
+Tax Type,taxtype,Lists - Tax Records
+Accounts,taxtypenexusaccounts,Lists - Tax Records
+Terms,term,Setup - Accounting Lists
+Test Plugin,testplugin,Setup - SuiteScript
+Time Tracking,timebill,Transactions - Track Time
+Weekly Timesheet,timesheet,Transactions - Track Time
+Published At,topicpublish,Lists - Knowledge Base
+Transaction,transaction,Transactions - Find Transaction
+Transaction Address,transactionaddressmapping,Lists - Address
+Address,transactionaddressmappingaddress,Lists - Address
+Address,transactionbillingaddress,Lists - Address
+Address,transactionbillingaddressbookentityaddress,Lists - Address
+Transaction Deletion Reason,transactiondeletionreason,Setup - Accounting Lists
+Transaction Audit Trail,transactionhistory,Transactions - Audit Trail
+Transaction Line,transactionline,Transactions - Find Transaction
+Transaction Line Address,transactionlineaddressmapping,Lists - Address
+Address,transactionlineaddressmappinglineaddress,Lists - Address
+Transaction Numbering Audit Log,transactionnumberingauditlog,Lists - Access to transaction numbering audit log
+Address,transactionpayeeaddressbookentityaddress,Lists - Address
+Address,transactionreturnaddressbookentityaddress,Lists - Address
+Address,transactionshippingaddress,Lists - Address
+Address,transactionshippingaddressbookentityaddress,Lists - Address
+Tax Detail,transactiontaxdetail,Lists - Tax Records
+Address,transferordershippingaddress,Lists - Address
+Undelivered Email,undeliveredemail,Lists - Undelivered Emails
+Units Type,unitstype,Lists - Units
+Units,unitstypeuom,Lists - Units
+Upsell,upsellitem,Lists - Upsell Assistant
+Usage,usage,Lists - Subscriptions
+Userevent Script,usereventscript,Setup - SuiteScript
+My Access Token,useroauthtoken,Setup - User Access Tokens
+Vendor,vendor,Lists - Vendors
+ACH,vendorachacct,Lists - Vendors
+Address,vendoraddressbookentityaddress,Lists - Address
+Address,vendorbillbillingaddress,Lists - Address
+Expenses,vendorbillexpensemachine,Transactions - Bills
+Bulk Merge,vendorbulkmerge,Lists - Mail Merge
+Campaigns,vendorcampaigns,Lists - Campaign History
+Vendor Category,vendorcategory,Setup - Accounting Lists
+Contacts,vendorcompanycontact,Lists - Contacts
+Address,vendorcreditbillingaddress,Lists - Address
+Expenses,vendorcreditexpensemachine,Transactions - Enter Vendor Credits
+Currencies,vendorcurrencybalance,Lists - Vendors
+Address,vendorpaymentpayeeaddress,Lists - Address
+Rates,vendorrate,Lists - Vendors
+Discount,vendorrequestforquotediscount,Transactions - Vendor Request For Quote
+Address,vendorreturnauthorizationbillingaddress,Lists - Address
+Expenses,vendorreturnauthorizationexpensemachine,Transactions - Vendor Return Authorization
+Vendor-Subsidiary Relationship,vendorsubsidiaryrelationship,Lists - Vendors
+Work Breakdown Structure,wbs,Lists - Work Breakdown Structure
+Web Site,website,Setup - Set Up Web Site
+Web Site Field Sets,websitefieldset,Setup - Set Up Web Site
+Site Language,websitelanguage,Setup - Set Up Web Site
+SSP Application,webapp,Setup - SuiteScript
+Work Calendar,workcalendar,Lists - Work Calendar
+Holiday Date,workcalendarholiday,Lists - Work Calendar
+Workflow Action Script,workflowactionscript,Setup - SuiteScript
+Workflow Action Script Deployment,workflowactionscriptdeployment,Setup - SuiteScript
+Workplace,workplace,Lists - Workplaces
+Address,workplacemainaddress,Lists - Address

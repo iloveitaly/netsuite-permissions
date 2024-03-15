@@ -1,0 +1,455 @@
+tableName,tableId,permission,feature
+,PerformanceReviewScheduleTalentDataset,LIST_TALENT_ADMINISTRATION,SuiteAnalytics Workbook
+1099-MISC Category,category1099misc,LIST_ACCOUNT,Accounting
+3D Secure Transaction Status,ThreeDSTranStatus,,
+3D Secure Transaction Status Reason,ThreeDSTranStatusReason,,
+3D Secure Version,ThreeDSVersion,,
+Access Token,OAuthToken,ADMI_MANAGE_OAUTH_TOKENS,Token-based Authentication
+Account,Account,LIST_ACCOUNT,Accounting
+Accounting Book,accountingBook,ADMI_ACCOUNTINGBOOK,Adjustment Only Books
+Accounting Context,AccountingContext,ADMI_SETUPCOMPANY,Accounting
+Accounting Line Type,TransactionAccountingLineType,TRAN_FIND,
+Accounting Period,accountingPeriod,ADMI_ACCTPERIODS,Accounting Periods
+Account Type,AutomatedClearingHouseAccountType,,
+Account Type,accountType,LIST_ACCOUNT,Accounting
+Accrual Frequency,timeOffAccrualFrequency,,
+Accrual Type,timeOffAccrualType,,
+Action,ActionType,ADMI_EXPENSEREPORTPOLICY,Expense Reports
+Activity,Activity,,
+Address Book,transactionBillingAddressbook,LIST_ADDRESS,
+Address Book,AddressBook,,
+Address Book,transactionAddressbook,,
+Address Book,transactionReturnAddressbook,,
+Address Book,transactionShippingAddressbook,,
+Address Book,transactionPayeeAddressbook,,
+Address Type,addressType,,
+Admissibility Package Type,AdmissibilityPackageType,,
+Advanced PDF/HTML Template,AdvancedPdfTemplate,ADMI_ADVANCED_TEMPLATES,Advanced PDF/HTML Templates
+Algorithm,RecSysAlgorithm,ADMI_RECSYS,Intelligent Recommendations
+Allocation_Method,AllocationMethod,,
+Allocation Schedule,GeneralAllocationSchedule,TRAN_ALLOCSCHEDULE,Expense Allocation
+Allocation Type,resourceAllocationType,LIST_RSRCALLOCATION,
+All Parser Plug-in,AllParserPlugin,ADMI_CUSTOMSCRIPT,
+Amortization Schedule,AmortizationSchedule,LIST_AMORTIZATION,Amortization
+Amortization Template,AmortizationTemplate,LIST_AMORTIZATION,Amortization
+API Version,scriptVersion,,
+Apply Discount To,applyDiscountTo,LIST_PROMOTIONCODE,
+Approval Status,ApprovalStatus,,
+Approval Status,timeLineApprovalStatus,TRAN_TIMEBILL,
+ATP Method,ATPMethodType,,
+Audit Trail,UsrAuditLog,ADMI_ANALYTICS,
+Audit Trail,UsrDsAuditLog,ADMI_ANALYTICS,
+Automated Clearing House,AutomatedClearingHouse,LIST_ACH,Credit Card Payments
+Billing Schedule,billingSchedule,LIST_BILLINGSCHEDULE,Advanced Billing
+Billing Schedule Type,BillingScheduleType,LIST_BILLINGSCHEDULE,
+Bill Variance Status,BillVarianceStatus,TRAN_POSTVENDORBILLVARIANCE,Advanced Receiving
+Bin,bin,LIST_BIN,Bin Management
+Budget,budgets,TRAN_BUDGET,Accounting
+Budget Category,budgetcategory,ADMI_ACCOUNTINGLIST,Multiple Budgets
+Budget Exchange Rate,budgetExchangeRate,TRAN_BUDGET,"Subsidiaries, Multiple Currencies and Multiple Budgets"
+Budget Import,budgetimport,TRAN_BUDGET,
+Budget Legacy,budgetLegacy,TRAN_BUDGET,Accounting
+Bulk Processing Submission,BulkProcSubmission,ADMI_SETUPCOMPANY,
+Bundle Installation Script,bundleInstallationScript,ADMI_CUSTOMSCRIPT,
+Bundle Installation Script Deployment,bundleInstallationScriptDeployment,ADMI_CUSTOMSCRIPT,
+Business Event Handler Feed Detail Type,BusinessEventHandlerFeedDetailType,,
+Business Events Handler,BusinessEventHandler,,
+Business Events Handler Feed Status,BusinessEventHandlerFeedStatus,,
+Business Event Type,BusinessEventType,,
+Calculate Quantity Discounts,overallQuantityPricingType,,Sales Order Reports
+Calculate Quantity Discounts,CalculateDiscountType,,
+Campaign,SearchCampaign,,Marketing Automation
+Campaign Audience,CampaignAudience,ADMI_CAMPAIGNSETUP,Marketing Automation
+Campaign Category,CampaignCategory,ADMI_CAMPAIGNSETUP,Marketing Automation
+Campaign Channel,CampaignChannel,ADMI_CAMPAIGNSETUP,Marketing Automation
+Campaign Email Address,CampaignEmailAddress,ADMI_CAMPAIGNEMAIL,Marketing Automation
+Campaign Email Template,CampaignTemplate,LIST_CRMTEMPLATE,Marketing Automation
+Campaign Event,CampaignEvent,,Marketing Automation
+Campaign Family,CampaignFamily,ADMI_CAMPAIGNSETUP,Marketing Automation
+Campaign Offer,CampaignOffer,ADMI_CAMPAIGNSETUP,Marketing Automation
+Campaign Response,CampaignResponse,LIST_CAMPAIGNHISTORY,Marketing Automation
+Campaign Search Engine,CampaignSearchEngine,ADMI_CAMPAIGNSETUP,Marketing Automation
+Campaign Subscription,CampaignSubscription,ADMI_CAMPAIGNSETUP,Subscription Categories
+Campaign Vertical,CampaignVertical,ADMI_CAMPAIGNSETUP,Marketing Automation
+Card Brand,paymentCardBrand,,
+Cardholder Authentication,cardholderAuthentication,TRAN_CARDHOLDERAUTHENTICATION,Credit Card Payments
+Cardholder Authentication Event,CardholderAuthenticationEvent,TRAN_CARDHOLDERAUTHEVENT,Credit Card Payments
+Cardholder Authentication Status,CardholderAuthenticationStatus,,
+Cart Sort Order,CartSortOrder,,
+Case,supportCase,LIST_CASE,Customer Support and Service
+Case Priority,supportCasePriority,ADMI_CASEPRIORITY,Customer Support and Service
+Case Status,supportCaseStatus,ADMI_CASESTATUS,Customer Support and Service
+Category Name,SiteCategoryType,,
+Center Type,CenterType,ADMI_CUSTCENTER,
+Challenge window size,ChallengeWindowSize,,
+Class,classification,LIST_CLASS,Classes
+Client Script,clientScript,ADMI_CUSTOMSCRIPT,
+Client Script Deployment,clientScriptDeployment,ADMI_CUSTOMSCRIPT,
+Commission Payment Type,CommissionPaymentType,,
+Commit Criteria,InvtCommit,,
+Competitor,Competitor,LIST_COMPETITOR,Customer Relationship Management
+Consolidated Exchange Rate,ConsolidatedRateType,LIST_CURRENCY,
+Consolidated Exchange Rate,consolidatedExchangeRate,LIST_CURRENCY,Subsidiaries And Multiple Currencies
+Consolidated Rate Adjustor Plugin,consolidatedRateAdjustorPlugin,ADMI_CUSTOMSCRIPT,
+Contact,Contact,LIST_CONTACT,
+Contact Category,ContactCategory,ADMI_CRMLIST,
+Contact Role,ContactRole,LIST_CONTACTROLE,
+Contact-Subsidiary Relationship,ContactSubsidiaryRelationship,LIST_CONTACT,Subsidiaries
+Contribution Type,RetirementPlanContributionType,,
+Cost Category,CostCategoryType,,
+Cost Category,costCategory,ADMI_ACCOUNTINGLIST,"Mfg Routing, Standard Costing or Landed Cost"
+Cost Estimate Type,CostEstimateType,,Gross Profit
+Costing Method,CostingMethodType,,
+Country,Country,ADMI_SETUPCOMPANY,
+Coupon Code,couponCode,LIST_PROMOTIONCODE,Promotion Codes
+Credit Hold,Creditholdoverridetype,,
+Currency,currency,LIST_CURRENCY,Multiple Currencies
+Currency Exchange Rate,currencyRate,LIST_CURRENCY,
+Currency Exchange Rate Type,CurrencyRateType,LIST_CURRENCY,Currency Exchange Rate Types
+Currency Symbol,CurrencySymbol,LIST_CURRENCY,
+Customer,Customer,LIST_CUSTJOB,
+Customer Category,customerCategory,ADMI_ACCOUNTINGLIST,
+Customer Message,customerMessage,ADMI_ACCOUNTINGLIST,
+Customer stage,EntityStage,,
+Customer-Subsidiary Relationship,CustomerSubsidiaryRelationship,LIST_CUSTJOB,Subsidiaries
+Custom Field,CustomField2,ADMI_CUSTOMSCRIPT,
+Custom Field Definition,CustomField,ADMI_CUSTFIELD,
+Custom GL Plugin,customGlPlugin,ADMI_CUSTOMSCRIPT,
+Custom List Definition,CustomList,ADMI_CUSTLIST,
+Custom Plug-in Implementation,plugInTypeImpl,ADMI_CUSTOMSCRIPT,
+Custom Plug-In Type,plugInType,ADMI_CUSTOMSCRIPT,
+Custom Record Action Script,CustomRecordActionScript,ADMI_CUSTOMSCRIPT,Server SuiteScript
+Custom Record Action Script Deployment,RecordActionScriptDeployment,ADMI_CUSTOMSCRIPT,Server SuiteScript
+Custom Record Definition,CustomRecordType,ADMI_CUSTRECORD,Custom Records
+Custom Segment Definition,CustomSegment,ADMI_MANAGECUSTOMSEGMENTS,Custom Segments
+Custom Segment Field,CustomSegmentField,ADMI_MANAGECUSTOMSEGMENTS,
+Custom Sublist Definition,sublist,ADMI_SUBLIST,
+Custom Transaction Definition,CustomTransactionType,ADMI_CUSTTRANSACTION,Custom Transactions
+Dataset Builder Plug-in,datasetBuilderPlugin,ADMI_CUSTOMSCRIPT,SuiteAnalytics Workbook
+Day of Week,DayOfWeek,,
+Day Of Week in Month,EventDowim,LIST_BILLINGSCHEDULE,Advanced Billing
+Default Chart Type,alignOrHide,,
+Deleted Record,DeletedRecord,ADMI_DELETEDRECORD,
+Demand Source,ItemDemandSource,,
+Department,department,LIST_DEPARTMENT,Departments
+Device ID,DeviceId,ADMI_DEVICE_ID,
+Device Status,DeviceStatusType,ADMI_DEVICE_ID,
+Direction,NoteDirectionType,,
+Discount Type,promocodediscounttype,LIST_PROMOTIONCODE,
+Document Folder,MediaItemFolder,LIST_FILECABINET,
+Domain,domain,ADMI_DOMAINS,
+dual,dual,,
+E-Commerce Indicator (ECI),ThreeDSECommerceIndicator,,
+Effectivity Based On,EffectivityBasedOnType,,
+Eligibility,RecSysEligibility,ADMI_RECSYS,Intelligent Recommendations
+Email Capture Plugin,emailCapturePlugin,ADMI_CUSTOMSCRIPT,
+Email Preference Type,EmailPreferenceType,,
+Email Template,EmailTemplate,LIST_EMAILTEMPLATE,Is A Business
+Employee,employee,LIST_EMPLOYEE_RECORD,
+Employee Directory,EmployeeList,ADMI_EMPLCATEGORY,Intranet
+Employee Expense Source Type,EmployeeExpenseSourceType,ADMI_EMPLOYEE_EXPENSE_SOURCE,Expense Reports
+Employee Filing Status,EmployeeFilingStatus,,
+Employee Status,EmployeeStatus,ADMI_EMPLOYEELIST,
+Employee-Subsidiary Relationship,EmployeeSubsidiaryRelationship,LIST_EMPLOYEE,Subsidiaries
+Employee Type,EmployeeType,ADMI_EMPLOYEELIST,Accounting
+Employee Type Category,EmployeeTypeCategory,,
+Employment Status Category,EmployeeStatusCategory,,
+Entity,entity,LIST_FIND,
+Entity List Type,EntityListType,,
+Entity Status,EntityStatus,,
+Entity-Subsidiary Relationship,EntitySubsidiaryRelationship,LIST_ENTITYSUBSIDIARYRELATION,Subsidiaries
+Event,CalendarEvent,LIST_EVENT,
+Event Priority,EventPriority,,
+Event Type,EventType,,
+Exception Type,FulfillmentExceptionType,,
+Execution Context,executionContext,,
+Execution Log,UsrExecutionLog,ADMI_ANALYTICS,
+Expense Category,ExpenseCategory,LIST_CATEGORY,Expense Categories
+Expense Report Policy,ExpenseReportPolicy,ADMI_EXPENSEREPORTPOLICY,Expense Reports
+Fair Value Range Checking Policy,FairValueRangePolicy,LIST_FAIRVALUEPRICE,
+Fax Template,FaxTemplate,LIST_FAXTEMPLATE,Mail Merge
+Features,CompanyFeatureSetup,LIST_COMPANY_FEATURE_SETUP,
+Field,SystemNoteField,,
+Field Type,scriptEventType,,
+Field Type,scriptFieldType,,
+File,File,LIST_FILECABINET,
+Filter Type,PlanningEngineFilterType,,
+Financial Institution Connectivity Plug-in,fiConnectivityPlugin,ADMI_CUSTOMSCRIPT,
+Financial Institution Parser Plug-in,FIParserPlugin,ADMI_CUSTOMSCRIPT,
+First Run Time Select,FirstRunTimeSelect,,
+Fiscal Calendar,FiscalCalendar,ADMI_ACCTPERIODS,Multiple Calendars
+Folder Type,FolderType,,
+Forecast,Forecast,TRAN_FORECAST,
+Forecast Type,ForecastType,,
+Format Profile,formatProfile,ADMI_FINANCIALINSTITUTION,
+Frequency,EventFrequency,,
+Frequency,FrequencyType,,
+Fulfillment Choice,FulfillmentChoice,,
+Fulfillment Exception Reason,fulfillmentExceptionReason,ADMI_FFTEXCEPTIONREASON,
+Fulfillment Type,FulfillmentRequestType,,
+Gateway Token Family,gatewayTokenFamily,,
+General Token,generalToken,LIST_GENERAL_TOKEN,Credit Card Payments
+Generic Resource,GenericResource,LIST_GENERICRESOURCE,Project Management
+Generic Resource-Subsidiary Relationship,GenericResourceSubsidiaryRelationship,LIST_GENERICRESOURCE,Project Management and Subsidiaries
+Gift Certificate,GiftCertificate,LIST_GIFT_CERTIFICATE,
+Group,EntityGroup,LIST_CRMGROUP,
+Group Type,entityGroupType,,
+Handling Mode,paymentHandlingMode,,
+Imported Employee Expense,ImportedEmployeeExpense,LIST_IMPORTED_EMPLOYEE_EXPENSE,Expense Reports
+Imported Employee Expense Status,ImportedEmployeeExpenseStatus,LIST_IMPORTED_EMPLOYEE_EXPENSE,Expense Reports
+Incoterm,Incoterm,ADMI_ACCOUNTINGLIST,Purchase Orders
+Incoterm Type,IncotermType,ADMI_ACCOUNTINGLIST,Purchase Orders
+Info Item,infoItem,ADMI_STORESETUP,
+Intelligent Item Recommendations,RecSysAnalyticsReportAgg,ADMI_RECSYS,Intelligent Recommendations
+Intelligent Item Recommendations,RecSysAnalyticsReport,ADMI_RECSYS,Intelligent Recommendations
+Intelligent Recommendations Analytics-Transaction Line Relationship,RecSysConversion,ADMI_RECSYS,Intelligent Recommendations
+Inventory Balance,InventoryBalance,LIST_ITEM,Advanced Bin/Numbered Inventory Management
+Inventory Cost Template,InventoryCostTemplate,LIST_INVCOSTTEMPLATE,Standard Costing
+Inventory Item Type,itemType,,
+Inventory Standard Cost,standardcostdefaulttype,,
+Issue Version Relation,IssueVersionRelation,,
+Item,generalizedItem,LIST_ITEM,
+Item,item,LIST_ITEM,
+Item Collection,ItemCollection,LIST_ITEM_COLLECTION,Inventory
+Item Demand Plan,ItemDemandPlan,LIST_ITEMDEMANDPLAN,Material Requirements Planning Or Demand Planning
+Item Pricing,InvtItemPriceHistory,LIST_ITEM,
+Item Revision,ItemRevision,LIST_ITEM_REVISION,Assembly Without Advanced BoM
+Item Source,ItemSource,,Work Orders
+Item subtype,ItemSubtype,,
+Item Supply Plan,ItemSupplyPlan,LIST_ITEMSUPPLYPLAN,Demand Planning
+Item Type,PresItemType,ADMI_STORESETUP,
+Item unit,ItemUnit,,
+Job Requisition Posting Type,JobRequisitionPostingType,,
+Job Requisition Status,JobRequisitionStatus,,
+Job-Subsidiary Relationship,ProjectSubsidiaryRelationship,LIST_JOB,Projects and Subsidiaries
+Knowledge Base,KnowledgeBase,ADMI_KNOWLEDGEBASE,
+Lag Type,LagType,,
+Language,Language,,
+Letter Template,MailTemplate,LIST_EMAILTEMPLATE,Mail Merge
+Limit Type,LimitType,ADMI_EXPENSEREPORTPOLICY,Expense Reports
+Location,Location,LIST_LOCATION,Locations
+Location Type,LocationType,,
+Login Audit Trail,LoginAudit,ADMI_AUDITLOGIN,
+Login Restrictions,IPRestrictions,ADMI_AUDITLOGIN,
+Lot Sizing Method,ItemSupplyLotSizingType,,
+Manufacturing Component,manufacturingComponent,TRAN_FIND,Assembly Items
+Manufacturing Cost Template,ManufacturingCostTemplate,LIST_MFGCOSTTEMPLATE,Manufacturing Routing and Work Center
+Manufacturing Operation Task,manufacturingOperationTask,TRAN_WORKORD,Manufacturing Routing and Work Center
+Manufacturing Planned Time,MfgPlannedTime,TRAN_WORKORD,Manufacturing Routing and Work Center
+Manufacturing Routing,ManufacturingRouting,LIST_MFGROUTING,Manufacturing Routing and Work Center
+Manufacturing Transaction,manufacturingTransaction,TRAN_FIND,Assembly Items
+Map/Reduce Script,mapReduceScript,ADMI_CUSTOMSCRIPT,
+Map/Reduce Script Deployment,mapReduceScriptDeployment,ADMI_CUSTOMSCRIPT,
+Massupdate Script,massUpdateScript,ADMI_CUSTOMSCRIPT,
+Massupdate Script Deployment,massUpdateScriptDeployment,ADMI_CUSTOMSCRIPT,
+Match Code,verificationMatchCode,,
+Media Type,MediaType,,
+Memorized Transaction Definition,MemDoc,LIST_MEMDOC,
+Memorized Transaction Template,memDocTransactionTemplate,LIST_MEMDOC,
+Message,Message,LIST_CRMMESSAGE,
+Message Type,MessageType,,
+Milestone,BillingMilestone,LIST_TASK,
+Mit Purpose,mitPurpose,,
+Mode,ApplicabilityModeType,LIST_PROMOTIONCODE,
+Months Of Year,MonthsOfYear,,
+My Access Token,UserOAuthToken,ADMI_MANAGE_OWN_OAUTH_TOKENS,Token-based Authentication
+Negative Number Format,NegativeNumberFormat,,
+Nexus,Nexus,LIST_TAXITEM,
+Note,note,LIST_HISTORY,Customer Relationship Management
+Number Format,NumberFormat,,
+Online Case Form,onlineCaseForm,ADMI_CASEFORM,Online Forms
+Online Form Template,OnlineFormTemplate,LIST_CRMTEMPLATE,Marketing Automation
+Online Lead Form,OnlineLeadForm,ADMI_CUSTOMERFORM,Online Forms
+Other Name,otherName,LIST_OTHERNAME,
+Other Name Category,otherNameCategory,ADMI_ACCOUNTINGLIST,
+Other Name-Subsidiary Relationship,OtherNameSubsidiaryRelationship,LIST_OTHERNAME,Subsidiaries
+Outbound Requests,outboundRequest,LIST_OUTBOUNDREQUEST,
+Overhead Type,overheadType,,
+Packages,ShippingPackage,TRAN_ITEMSHIP,Advanced Shipping
+Partner,Partner,LIST_PARTNER,
+Partner-Subsidiary Relationship,PartnerSubsidiaryRelationship,LIST_PARTNER,Subsidiaries
+Partner System,PartnerSystem,,
+Payment Card,paymentCard,LIST_PAYMENT_CARD,Credit Card Payments
+Payment Card BIN,paymentCardBin,,
+Payment Card Token,paymentCardToken,LIST_PAYMENT_CARD_TOKEN,Credit Card Payments
+Payment Event,paymentEvent,TRAN_PAYMENTEVENT,Credit Card Payments
+Payment Gateway Asynchronous Notifications,gatewayNotification,TRAN_GATEWAYNOTIFICATION,Credit Card Payments
+Payment Gateway Plugin,paymentGatewayPlugin,ADMI_CUSTOMSCRIPT,
+Payment Initiator,paymentInitiator,,
+Payment Method,paymentMethod,ADMI_ACCOUNTINGLIST,
+Payment Processing Profile,PaymentProcessingProfile,ADMI_CREDITCARD,
+Payment Result Preview,paymentResultPreview,TRAN_PAYMENTRESULTPREVIEW,Credit Card Payments
+Payment Status,paymentStatus,,
+Payment Status Reason,paymentStatusReason,,
+Payroll Item,payrollItem,LIST_PAYROLLITEM,
+Payroll Item Type,payItemType,,
+PDF Template,PdfTemplate,LIST_PDFTEMPLATE,Mail Merge
+Period Closing Task,PeriodClosingTask,ADMI_ACCTPERIODS,Accounting Periods
+Periods of Supply Type,ItemPeriodicLotSizeType,,
+Phone Call,PhoneCall,LIST_CALL,
+Pick Task Inventory Balance,PickTaskInventoryBalance,,Advanced Bin/Numbered Inventory Management
+Planned Revenue Type,plannedRevenueType,LIST_REVENUEPLAN,
+Planned Standard Cost,plannedStandardCost,LIST_PLANNEDSTANDARDCOST,Standard Costing
+Plan Type,RetirementPlanType,,
+Platform Extension Plug-in,platformExtensionPlugin,ADMI_CUSTOMSCRIPT,
+Portlet,portlet,ADMI_CUSTOMSCRIPT,
+Portlet Deployment,portletDeployment,ADMI_CUSTOMSCRIPT,
+Posting Account Activity,PostingAccountActivity,LIST_ACCOUNT,Accounting
+Price Level,priceLevel,ADMI_ACCOUNTINGLIST,Multiple Prices
+Price Using,priceUsingType,,
+Pricing,pricing,LIST_ITEM,
+Pricing Group,pricingGroup,ADMI_ACCOUNTINGLIST,Quantity Pricing
+Pricing Model,PriceModelType,LIST_PRICEPLAN,Advanced Billing
+Pricing per Customer,pricingWithCustomers,LIST_ITEM,
+Project,job,LIST_JOB,Projects
+Project Resource Available Time,ProjectResourceAvailableTime,TRAN_TIMEBILL,Project Management
+Project Resource Role,JobResourceRole,ADMI_EMPLOYEELIST,
+Project Revenue Rule,revRecEventPRevRule,LIST_PROJECTREVENUERULE,
+Project Revenue Rule Type,projectRevenueRuleType,LIST_REVENUEPLAN,
+Project Status,JobStatus,ADMI_ACCOUNTINGLIST,
+Project Task,projectTask,LIST_PROJECTTASK,Project Management
+Project Task Constraint Type,projectTaskConstraintType,LIST_PROJECTTASK,Project Management
+Project Template,projectTemplate,LIST_PROJECTTEMPLATE,Project Management
+Project Template-Subsidiary Relationship,ProjectTemplateSubsidiaryRelationship,LIST_PROJECTTEMPLATE,Project Management and Subsidiaries
+Project Time Approval Type,ProjectTimeApprovalType,LIST_JOB,
+Project Type,JobType,ADMI_ACCOUNTINGLIST,
+Promotion,promotionCode,LIST_PROMOTIONCODE,Promotion Codes
+Promotions Plugin,promotionsPlugin,ADMI_CUSTOMSCRIPT,
+Published Saved Search,PublishedSavedSearch,LIST_PRESCATEGORY,Intranet
+Purpose,ratableEventPurpose,LIST_REVENUEPLAN,
+Quantity Pricing Schedule,QuantityPricingSchedule,LIST_QUANTITYPRICINGSCHEDULE,Quantity Pricing
+Quota,Quota,TRAN_QUOTA,
+Reason,ApplicabilityReasonType,LIST_PROMOTIONCODE,
+Recent Records,RecentRecord,,
+Recommendation Blocklist,RecSysBlocklist,ADMI_RECSYS,Intelligent Recommendations
+Recommendation Scenario,RecSysScenario,ADMI_RECSYS,Intelligent Recommendations
+Record Field,UmdField,ADMI_ANALYTICS,
+RECORDLABEL.permissionlevel,permissionLevel,,
+RECORDLABEL.permissiontype,PermissionType,,
+RECORDLABEL.terminationregretted,Terminationregretted,,
+Record Type,ScriptCustomRecordType,ADMI_CUSTOMSCRIPT,
+Record Type,ScriptRecordType,ADMI_CUSTOMSCRIPT,
+Recurrence Pattern,billingScheduleRecurrencePattern,LIST_BILLINGSCHEDULE,Advanced Billing
+Reforecast Method,reforecastMethod,LIST_REVENUERECOGNITIONRULE,
+Release Frequency,OrderFrequencyType,TRAN_BLANKORD,
+Replenishment Method,SupplyReplenishmentType,,
+Reporting Section,reportingSection,,
+Resource Group,resourceGroup,LIST_RESOURCEGROUP,Project Management
+Restlet,restlet,ADMI_CUSTOMSCRIPT,
+Restlet Deployment,restletDeployment,ADMI_CUSTOMSCRIPT,
+Revenue Element,RevenueElement,LIST_REVENUEELEMENT,Advanced Revenue Management (Essentials)
+Revenue Plan Status,revenuePlanStatus,LIST_REVENUEPLAN,
+Revenue Plan Type,revenuePlanType,LIST_REVENUEPLAN,
+Role,role,ADMI_MANAGEROLES,
+Sales (Invoiced),salesInvoiced,REPO_SALES,Accounting
+Sales (Ordered),salesOrdered,REPO_BOOKINGS,Sales Order Reports
+Saved Workbook,usrsavedsearch,REPO_ANALYTICS,
+Scheduled Script,scheduledScript,ADMI_CUSTOMSCRIPT,
+Scheduled Script Deployment,scheduledScriptDeployment,ADMI_CUSTOMSCRIPT,
+Scheduled Script Instance,ScheduledScriptInstance,ADMI_CUSTOMSCRIPT,Server SuiteScript
+Scheduling Method,schedulingMethod,,
+Script,script,ADMI_CUSTOMSCRIPT,
+Script Deployment,scriptDeployment,ADMI_CUSTOMSCRIPT,
+Script Note Type,scriptNoteType,,
+Script Portlet Type,scriptPortletType,,
+Script Type,scriptType,,
+Sent Email,sentEmail,LIST_SENTEMAIL,
+Serial/Lot Number,inventoryNumber,LIST_ITEM,Numbered Inventory
+Server Script Log,ScriptNote,ADMI_CUSTOMSCRIPT,Enable Client SuiteScript Execution
+Shipper Package Type Code,ShipperPackageTypeCode,,
+Shipping Item,ShipItem,LIST_SHIPITEM,
+Shipping Partners Plugin,shippingPartnersPlugin,ADMI_CUSTOMSCRIPT,
+Shopping Cart,shoppingCart,REPO_WEBSTORE,Advanced Web Reports
+Site Category,SiteCategory,,
+Site Entry Point Type,SiteEntryPointType,ADMI_STORESETUP,
+Site Registration Type,siteRegistrationType,ADMI_STORESETUP,
+Soft Descriptor,softDescriptor,,
+Solution,solution,LIST_KNOWLEDGEBASE,Knowledge Base
+Source,revenuePlanSource,LIST_REVENUEPLAN,
+Source Record Type,revenueElementSourceType,LIST_REVENUEELEMENT,
+Source Type,revRecDateSourceType,LIST_REVENUERECOGNITIONRULE,
+Source Type,revRecAmountSourceType,LIST_REVENUERECOGNITIONRULE,
+Special Account Type,specialAccountType,LIST_ACCOUNT,Accounting
+SSP Application,webapp,ADMI_CUSTOMSCRIPT,
+Standard Cost Version,standardCostVersion,LIST_STANDARDCOSTVERSION,Standard Costing
+State/Province/County,state,ADMI_SETUPCOMPANY,
+Status,ApplicabilityStatusType,LIST_PROMOTIONCODE,
+Status,UsageStatus,LIST_USAGE,Advanced Billing
+Status,subscriptionLineStatus,LIST_SUBSCRIPTION,Advanced Billing
+Status,PlannedOrderStatusType,,
+Status,scriptStatus,,
+Status,StatusType,ADMI_EXPENSEREPORTPOLICY,Expense Reports
+Stock Behavior Type,StockBehaviorType,,
+Subscription Status,SubscriptionStatus,,Marketing Automation
+Subsidiary,Subsidiary,LIST_SUBSIDIARY,Subsidiaries
+Subsidiary Settings,SubsidiarySettings,ADMI_SUBSIDIARYSETTINGSMANAGER,Subsidiaries
+Suitelet,suitelet,ADMI_CUSTOMSCRIPT,
+Suitelet Deployment,suiteletDeployment,ADMI_CUSTOMSCRIPT,
+Suite Script Detail,SuiteScriptDetail,ADMI_CUSTOMSCRIPT,
+Supply Change Order,supplyChangeOrderStatus,,
+Supply Plan Definition,demandSourceType,,
+Supply Type,ItemSupplyType,,
+Symbol Placement,CurrencySymbolPlacement,LIST_CURRENCY,
+System Email Template (Scriptable),SystemEmailTemplate,LIST_SYSTEMEMAILTEMPLATE,CRM or Web Store
+System Note,SystemNote,,
+System Notes,systemNoteContextType,,
+System Notes v2,SystemNote2,,
+Tab Type,StoreTabType,,
+Tag,tag,LIST_WEBSITE,Advanced Site Customization
+Task,Task,LIST_TASK,
+Tax Calculation Plugin,taxCalculationPlugin,ADMI_CUSTOMSCRIPT,
+Tax Code,salesTaxItem,LIST_TAXITEM,
+Tax Item,taxItemTaxGroup,LIST_TAXITEM,Not SuiteTax
+Tax Override Method,taxOverrideMethod,,
+Tax Type,taxType,LIST_TAXITEM,
+Template Type,CrmTemplateType,,
+Termination Reason Category,Hcmterminationcategory,,
+Terms,term,ADMI_ACCOUNTINGLIST,
+Test Plugin,testPlugin,ADMI_CUSTOMSCRIPT,
+Time Modification Request,TimeModificationRequest,ADMI_TIMEMODIFICATION,Project Management and Time Tracking
+Time Tracking,TimeBill,TRAN_TIMEBILL,Time Tracking
+Time Type,TimelineType,TRAN_TIMEBILL,
+Time Zone,TimeZone,,
+Topic,Topic,LIST_KNOWLEDGEBASE,Knowledge Base
+Tracking Number,TrackingNumber,TRAN_ITEMSHIP,
+Transaction,transaction,TRAN_FIND,
+Transaction Audit Trail,transactionHistory,TRAN_AUDIT,
+Transaction Billing,TransactionBilling,LIST_BILLINGSCHEDULE,Advanced Billing
+Transaction Line,revRecEventTranLine,LIST_RECOGNITIONEVENTTYPE,
+Transaction Numbering Audit Log,TransactionNumberingAuditLog,LIST_TRANNUMBERAUDITLOG,
+Transaction Status,TransactionStatus,ADMI_SETUPCOMPANY,
+Type,AmortizationType,LIST_AMORTIZATION,
+Type,EmploymentCategory,,
+Type,paymentInstrumentType,,
+Type,PresentationItemType,,
+Type,ItemSegmentType,,
+Type,revRecChangeImpactType,LIST_REVENUERECOGNITIONRULE,
+Type,paymentInstrumentStateType,,
+Type,vsoeSopGroupType,,
+Type,revRecRecurrenceType,LIST_REVENUERECOGNITIONRULE,
+Type,paymentOperation,,
+Type,vsoeDiscountType,,
+Type,SubscriptionMessageType,,
+Type,storeType,ADMI_STORESETUP,
+Unbilled Receivable Adjustment Journal Grouping,UnbilledReceivableGrouping,LIST_REVRECSCHEDULE,
+Undelivered Email,undeliveredEmail,LIST_UNDELIVEREDEMAIL,
+Unit,subscriptiontermunit,ADMI_ACCOUNTINGLIST,Advanced Billing
+Units Type,unitsType,LIST_UNIT,Multiple Units of Measure
+Update Time Zone,FXRATEUPDATEZONE,LIST_CURRENCY,
+Userevent Script,userEventScript,ADMI_CUSTOMSCRIPT,
+User Event Script Deployment,UserEventScriptDeployment,ADMI_CUSTOMSCRIPT,
+UsrDsExecutionLog,UsrDsExecutionLog,ADMI_ANALYTICS,
+Validate PostBack status,validatePostbackStatus,,
+Vendor,Vendor,LIST_VENDOR,
+Vendor Category,VendorCategory,ADMI_ACCOUNTINGLIST,Accounting
+Vendor-Subsidiary Relationship,VendorSubsidiaryRelationship,LIST_VENDOR,Subsidiaries
+Website,webSite,ADMI_STORESETUP,Website
+Web Site Field Set Record Type,webSiteFieldsetRecordType,,
+Web Site Redirect,redirect,ADMI_STORESETUP,Host HTML Files
+Website Scope,webSiteScope,ADMI_STORESETUP,
+Web Site Tab,StoreTab,LIST_STORETAB,
+Web Site Theme,SiteTheme,LIST_WEBSITE,
+Workbook Builder Plug-in,workbookBuilderPlugin,ADMI_CUSTOMSCRIPT,SuiteAnalytics Workbook
+Work Calendar,workCalendar,LIST_WORKCALENDAR,Generic Work Calendar
+Workflow Action Script,workflowActionScript,ADMI_CUSTOMSCRIPT,
+Workflow Action Script Deployment,workflowActionScriptDeployment,ADMI_CUSTOMSCRIPT,

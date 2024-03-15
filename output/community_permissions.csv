@@ -1,0 +1,2 @@
+tableName,tableId,permission,level,notes
+Transaction History,transactionHistory,Lists > Financial History,View,Found in documentation
