@@ -1,0 +1,5 @@
+over this |
+yield {tableName: this.label, tableId:this.id, permissions:this.detail.permissionCodes, features:this.detail.features} |
+// not sure how to do this in zed, but at this point all permissions and features should only contain a single element
+yield {...this, permission: this.permissions != [] ? this.permissions[0] : null, feature: this.features != [] ? this.features[0] : null} |
+drop permissions, features
