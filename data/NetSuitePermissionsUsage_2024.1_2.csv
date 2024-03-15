@@ -1,0 +1,43 @@
+a,b
+,
+What are NetSuite permissions?,
+* NetSuite provides a large number of permissions that govern the data and interface that users can access. ,
+"* Permissions are used to define usage of record types, tasks, and pages.",
+"* Permissions are associated with roles, and roles are assigned to users, who can be employees, vendors, partners, or customers. ",
+"* You can review lists of permissions on any role definition page,  including the permissions assigned to each role, and other available permissions.",
+* To review these lists: Go to Setup > Users/Roles > Manage Roles.,
+,
+,
+What are access levels?,
+The following are general definitions of possible access levels for permissions.  ,
+"** VIEW - User has access to view existing files only. The User cannot create new, edit existing, or delete existing files.",
+** CREATE - User can create new and view existing files. The user cannot edit or delete existing files.,
+"** EDIT - User has access to create new, view existing, and edit existing files. The user cannot delete existing files.",
+"** FULL - User has access to create new files and view, edit, and delete existing files. ",
+,
+        Note:,This worksheet does not detail how different access levels affect each permission usage; it simply lists the minimum level required.
+,"Some permissions fit an access model where each successive level (view, create, edit, full) provides increased usage."
+,"Note that some permissions do not fit exactly into this model.  For some permissions, only the minimum view level is required, and "
+,other levels do not provide any additional capabilities.
+,
+,
+What is in the Permissions Usage List worksheet?,
+"You can use this worksheet to learn the implications of assigning a specific permission, or to find the permission required to provide access to a specific task or page. ",
+You can search and sort fields in the manner most useful for you.  Autofilters are provided for each column. Please note that there may be some slight variations in some permission names for different locales.,
+* The PermissionsUsageList worksheet includes the following information:,
+"***  Subtab of the Roles page Permissions subtab where each permission is listed:  Lists, Reports, Setup, and Transactions (sorted alphabetically)",
+***  Permission name (sorted alphabetically),
+"***  Description of how each permission is used, meaning the record types, tasks, and/or pages that each permission makes accessible (sorted alphabetically)",
+"***  The minimum selectable level (view, create, edit, or full) for each permission.",
+"***  The minimum system level (view, create, edit, or full) contains the minimum valid level selectable for a permission in the system. This level takes precedence in case it differs from the level in the Minimum Selectable Level column.",
+,
+"Many permissions are listed multiple times because they provide access to multiple record types, tasks, and/or pages.  ",
+"Usages of some permissions may have dependencies on other permissions, and this spreadsheet does not include these dependencies.  ",
+,
+Important:  ,The contents of NetSuitePermissionsUsage.xls are subject to change.  Data is current as of the date listed in the worksheet footer.
+,"This worksheet provides information on how each permission works individually.  However, since most roles include many different permissions, it is"
+,important to assess permission changes in the context of each role and to test permission changes to roles prior to deploying to users in your account.
+,
+Where can I find SuiteScript permission IDs?,
+"For a list of permission IDs to use with SuiteScript, see the help topic Permission Names and IDs. ",
+"To access this topic, go to the NetSuite Help Center and navigate to SuiteCloud (Customization, Scripting, and Web Services) > SuiteScript > SuiteScript Developer Guide > SuiteScript IDs.",
