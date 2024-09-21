@@ -23,7 +23,7 @@ is why you should check here after checking the NetSuite-provided catalog.
 
 Check out this CSV for [community-documented permissions](output/community_permissions.csv) which are not found in the above sources.
 
-### 3. NetSuite Documentation
+### 4. NetSuite Documentation
 
 Some NetSuite permissions aren't in the above sources and you need to [manually search the NetSuite documentation](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N128815.html#NetSuite-Documentation-Overview) to find specific permissions that are required.
 
