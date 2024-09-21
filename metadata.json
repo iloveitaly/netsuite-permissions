@@ -1,0 +1,5 @@
+{
+  "description": "Easily debug permission issues in NetSuite",
+  "homepage": "https://github.com/iloveitaly/netsuite-permissions",
+  "keywords": ["netsuite", "suiteql", "suitescript", "suiteanalytics"]
+}
