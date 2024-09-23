@@ -1,4 +1,4 @@
-# Debugging NetSuite Permissions
+# Debugging NetSuite Permissions on Custom Roles
 
 Figuring out which NetSuite permissions you should include on a role for record access can be tricky. This repo provides simplified tables generated from various sources to make it easy to determine which permissions are required for data access.
 
@@ -31,6 +31,17 @@ If you find a permission that is missing from the Community Documented Permissio
 
 For instance, the "Transaction History" requires some additional permissions which are not found anywhere else [but in this document](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N555081.html#Granting-User-Access-to-Transaction-History).
 
+### 5. Account-specific Permissions
+
+Unfortunately, the permissions required to access specific data on each account is different. This is due to a couple of reasons:
+
+* Different NetSuite-level permissions are enabled/disabled.
+* Custom formula fields could reference related records which require additional permissions. For example, a field on
+  a sales order could reference a custom field on a customer record, so the customer permission would be required.
+* Custom scripts could be running which require additional permissions.
+* Fields or scripts included in a bundle could require additional permissions.
+
+It's possible that there are additional permissions you'll need to add beyond what is specified in this repo.
 
 ## NetSuite Record Catalog API
 
